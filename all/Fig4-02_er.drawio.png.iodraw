@@ -8,7 +8,7 @@
           <mxGeometry x="20" y="185" width="108" height="49" as="geometry" />
         </mxCell>
         <mxCell id="yGknJO0OhnSx9a3VA3vF-9" value="保存 weekly_reports(状态)" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="180" y="110" width="242" height="199" as="geometry" />
+          <mxGeometry x="210" y="114.5" width="180" height="165.5" as="geometry" />
         </mxCell>
         <mxCell id="yGknJO0OhnSx9a3VA3vF-10" value="导师查询" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="467" y="185" width="124" height="49" as="geometry" />
