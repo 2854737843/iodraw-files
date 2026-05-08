@@ -48,7 +48,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="es-MbDrSJX70U20Gkiew-8" value="配置 Axios 拦截器 (添加 Authorization: Bearer)" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="es-MbDrSJX70U20Gkiew-1" target="es-MbDrSJX70U20Gkiew-1">
+        <mxCell id="es-MbDrSJX70U20Gkiew-8" value="配置 Axios 拦截器 (添加 Authorization: Bearer...)" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="es-MbDrSJX70U20Gkiew-1" target="es-MbDrSJX70U20Gkiew-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="146" y="477" />
