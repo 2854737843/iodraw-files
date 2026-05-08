@@ -31,6 +31,42 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="yGknJO0OhnSx9a3VA3vF-8" value="生提交" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="185" width="108" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="yGknJO0OhnSx9a3VA3vF-9" value="保存 weekly_reports(状态)" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="178" y="90" width="239" height="239" as="geometry" />
+        </mxCell>
+        <mxCell id="yGknJO0OhnSx9a3VA3vF-10" value="导师查询" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="467" y="185" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="yGknJO0OhnSx9a3VA3vF-11" value="写入 audit_logs" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="677" y="185" width="170" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="yGknJO0OhnSx9a3VA3vF-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="yGknJO0OhnSx9a3VA3vF-8" target="yGknJO0OhnSx9a3VA3vF-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yGknJO0OhnSx9a3VA3vF-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.5;entryX=0;entryY=0.5;rounded=0;" edge="1" parent="1" source="yGknJO0OhnSx9a3VA3vF-9" target="yGknJO0OhnSx9a3VA3vF-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yGknJO0OhnSx9a3VA3vF-14" value="通过" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.24;entryX=0;entryY=0.21;rounded=0;" edge="1" parent="1" source="yGknJO0OhnSx9a3VA3vF-10" target="yGknJO0OhnSx9a3VA3vF-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="634" y="188" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yGknJO0OhnSx9a3VA3vF-15" value="驳回" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.76;entryX=0;entryY=0.79;rounded=0;" edge="1" parent="1" source="yGknJO0OhnSx9a3VA3vF-10" target="yGknJO0OhnSx9a3VA3vF-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="634" y="231" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
