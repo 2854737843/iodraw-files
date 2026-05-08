@@ -10,7 +10,7 @@
         <mxCell id="y4nJmUDXk4-bjMSmohIj-2" value="Axios（适配器）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="80" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="y4nJmUDXk4-bjMSmohIj-3" value="Axios（适配器）" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="y4nJmUDXk4-bjMSmohIj-3" value="Springboot Rest Api" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="80" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
