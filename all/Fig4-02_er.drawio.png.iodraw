@@ -25,7 +25,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="es-MbDrSJX70U20Gkiew-5" value="生成 JWT (issuer, sub, role, exp)" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="es-MbDrSJX70U20Gkiew-2" target="es-MbDrSJX70U20Gkiew-2">
+        <mxCell id="es-MbDrSJX70U20Gkiew-5" value="生成JWT" style="curved=1;endArrow=block;rounded=0;" edge="1" parent="1" source="es-MbDrSJX70U20Gkiew-2" target="es-MbDrSJX70U20Gkiew-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="463" y="261" />
