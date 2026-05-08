@@ -1030,20 +1030,6 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nfGYhfZB9KopM1F52W-8-293" value="has" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0;exitY=0.75;entryX=0.28;entryY=0;rounded=0;" edge="1" parent="1" source="nfGYhfZB9KopM1F52W-8-215" target="nfGYhfZB9KopM1F52W-8-190">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="172" y="953" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nfGYhfZB9KopM1F52W-8-296" value="receives" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.57;exitY=1;entryX=0.7;entryY=0;rounded=0;" edge="1" parent="1" source="nfGYhfZB9KopM1F52W-8-215" target="nfGYhfZB9KopM1F52W-8-261">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="519" y="953" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
