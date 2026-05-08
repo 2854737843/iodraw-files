@@ -881,10 +881,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nfGYhfZB9KopM1F52W-8-538" value="1 to N" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0;exitY=0.8;entryX=0.36;entryY=0;rounded=0;" edge="1" parent="1" source="nfGYhfZB9KopM1F52W-8-342" target="nfGYhfZB9KopM1F52W-8-396">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.0435" y="-30" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="59" y="1713" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nfGYhfZB9KopM1F52W-8-539" value="author" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.35;exitY=1;entryX=0;entryY=0.15;rounded=0;" edge="1" parent="1" source="nfGYhfZB9KopM1F52W-8-342" target="nfGYhfZB9KopM1F52W-8-421">
@@ -928,15 +929,6 @@
               <mxPoint x="595" y="1713" />
             </Array>
           </mxGeometry>
-        </mxCell>
-        <mxCell id="nfGYhfZB9KopM1F52W-8-545" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="nfGYhfZB9KopM1F52W-8-396" target="nfGYhfZB9KopM1F52W-8-355">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="30" y="1620" as="sourcePoint" />
-            <mxPoint x="190" y="1620" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="nfGYhfZB9KopM1F52W-8-546" value="1" style="resizable=0;html=1;whiteSpace=wrap;align=right;verticalAlign=bottom;" connectable="0" vertex="1" parent="nfGYhfZB9KopM1F52W-8-545">
-          <mxGeometry x="1" relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
