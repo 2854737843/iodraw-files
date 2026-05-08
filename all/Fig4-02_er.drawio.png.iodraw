@@ -929,7 +929,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="nfGYhfZB9KopM1F52W-8-545" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="nfGYhfZB9KopM1F52W-8-545" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="nfGYhfZB9KopM1F52W-8-396" target="nfGYhfZB9KopM1F52W-8-355">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="30" y="1620" as="sourcePoint" />
             <mxPoint x="190" y="1620" as="targetPoint" />
