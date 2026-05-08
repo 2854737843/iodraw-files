@@ -888,7 +888,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nfGYhfZB9KopM1F52W-8-539" value="author" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.35;exitY=1;entryX=0;entryY=0.15;rounded=0;" edge="1" parent="1" source="nfGYhfZB9KopM1F52W-8-342" target="nfGYhfZB9KopM1F52W-8-421">
+        <mxCell id="nfGYhfZB9KopM1F52W-8-539" value="" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.35;exitY=1;entryX=0;entryY=0.15;rounded=0;" edge="1" parent="1" source="nfGYhfZB9KopM1F52W-8-342" target="nfGYhfZB9KopM1F52W-8-421">
           <mxGeometry x="-0.0049" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="290" y="1713" />
@@ -896,7 +896,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="nfGYhfZB9KopM1F52W-8-540" value="reviewer" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.73;exitY=1;entryX=0.29;entryY=0;rounded=0;" edge="1" parent="1" source="nfGYhfZB9KopM1F52W-8-342" target="nfGYhfZB9KopM1F52W-8-421">
+        <mxCell id="nfGYhfZB9KopM1F52W-8-540" value="" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.73;exitY=1;entryX=0.29;entryY=0;rounded=0;" edge="1" parent="1" source="nfGYhfZB9KopM1F52W-8-342" target="nfGYhfZB9KopM1F52W-8-421">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="418" y="1713" />
@@ -925,10 +925,11 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nfGYhfZB9KopM1F52W-8-544" value="1 to N" style="curved=1;startArrow=ERmandOne;startSize=10;;endArrow=ERzeroToMany;endSize=10;;exitX=0.48;exitY=1;entryX=0.98;entryY=0.01;rounded=0;" edge="1" parent="1" source="nfGYhfZB9KopM1F52W-8-491" target="nfGYhfZB9KopM1F52W-8-421">
-          <mxGeometry relative="1" as="geometry">
+          <mxGeometry x="-0.0235" y="5" relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="595" y="1713" />
             </Array>
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
