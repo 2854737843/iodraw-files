@@ -17,7 +17,7 @@
           <mxGeometry x="720" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="su7M7CAhF2yhoOc3YVTk-20" value="周报WeekReport" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="340" width="120" height="60" as="geometry" />
+          <mxGeometry x="680" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="su7M7CAhF2yhoOc3YVTk-21" value="加入MenberOf" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="120" width="80" height="80" as="geometry" />
@@ -35,7 +35,7 @@
           <mxGeometry x="130" y="10" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="su7M7CAhF2yhoOc3YVTk-26" value="审核Review" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="460" width="80" height="80" as="geometry" />
+          <mxGeometry x="480" y="640" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="su7M7CAhF2yhoOc3YVTk-27" value="归属BelogTo" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="220" width="80" height="80" as="geometry" />
