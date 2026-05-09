@@ -123,7 +123,7 @@
         <mxCell id="su7M7CAhF2yhoOc3YVTk-62" value="N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="544" y="528" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="su7M7CAhF2yhoOc3YVTk-64" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="su7M7CAhF2yhoOc3YVTk-64" value="任务编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="752" y="22" width="96" height="58" as="geometry" />
         </mxCell>
         <mxCell id="su7M7CAhF2yhoOc3YVTk-65" value="是否归档" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -157,7 +157,7 @@
           <mxGeometry x="752" y="132" width="96" height="58" as="geometry" />
         </mxCell>
         <mxCell id="su7M7CAhF2yhoOc3YVTk-75" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="272" y="326" width="96" height="58" as="geometry" />
+          <mxGeometry x="752" y="197" width="96" height="58" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
