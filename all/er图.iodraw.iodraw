@@ -11,7 +11,7 @@
           <mxGeometry x="400" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="su7M7CAhF2yhoOc3YVTk-3" value="项目Project" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="210" y="240" width="120" height="60" as="geometry" />
+          <mxGeometry x="570" y="120" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="su7M7CAhF2yhoOc3YVTk-4" value="任务Task" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="660" y="190" width="120" height="60" as="geometry" />
@@ -38,7 +38,7 @@
           <mxGeometry x="560" y="240" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="su7M7CAhF2yhoOc3YVTk-15" value="归属BelogTo" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="425" y="300" width="80" height="80" as="geometry" />
+          <mxGeometry x="420" y="220" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
