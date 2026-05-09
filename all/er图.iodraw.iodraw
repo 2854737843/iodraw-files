@@ -159,6 +159,15 @@
         <mxCell id="su7M7CAhF2yhoOc3YVTk-75" value="状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="752" y="197" width="96" height="58" as="geometry" />
         </mxCell>
+        <mxCell id="su7M7CAhF2yhoOc3YVTk-76" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="288" y="342" width="96" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="su7M7CAhF2yhoOc3YVTk-77" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="304" y="358" width="96" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="su7M7CAhF2yhoOc3YVTk-78" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="736" y="500" width="96" height="58" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
