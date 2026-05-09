@@ -142,10 +142,10 @@
           <mxGeometry x="176" y="230" width="96" height="58" as="geometry" />
         </mxCell>
         <mxCell id="su7M7CAhF2yhoOc3YVTk-70" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="192" y="246" width="96" height="58" as="geometry" />
+          <mxGeometry x="505" y="214" width="96" height="58" as="geometry" />
         </mxCell>
         <mxCell id="su7M7CAhF2yhoOc3YVTk-71" value="角色" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="208" y="262" width="96" height="58" as="geometry" />
+          <mxGeometry x="96" y="390" width="96" height="58" as="geometry" />
         </mxCell>
         <mxCell id="su7M7CAhF2yhoOc3YVTk-72" value="用户名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="96" y="320" width="96" height="58" as="geometry" />
