@@ -13,11 +13,11 @@
         <mxCell id="s-rZEvOO0DlLfAngvEvb-3" value="学生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="410" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="s-rZEvOO0DlLfAngvEvb-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="s-rZEvOO0DlLfAngvEvb-4" value="登录与认证" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="20" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s-rZEvOO0DlLfAngvEvb-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="30" width="120" height="60" as="geometry" />
+          <mxGeometry x="360" y="570" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s-rZEvOO0DlLfAngvEvb-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="460" width="120" height="60" as="geometry" />
