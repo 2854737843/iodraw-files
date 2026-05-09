@@ -17,7 +17,7 @@
           <mxGeometry x="600" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="su7M7CAhF2yhoOc3YVTk-18" value="项目Project" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="928" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="928" y="304" width="120" height="56" as="geometry" />
         </mxCell>
         <mxCell id="su7M7CAhF2yhoOc3YVTk-19" value="任务Task" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="848" y="90" width="120" height="60" as="geometry" />
