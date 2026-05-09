@@ -129,6 +129,11 @@
         <mxCell id="su7M7CAhF2yhoOc3YVTk-64" value="任务编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="752" y="22" width="96" height="58" as="geometry" />
         </mxCell>
+        <mxCell id="su7M7CAhF2yhoOc3YVTk-97" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="su7M7CAhF2yhoOc3YVTk-65">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="992" y="368" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="su7M7CAhF2yhoOc3YVTk-65" value="是否归档" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="832" y="428" width="96" height="58" as="geometry" />
         </mxCell>
