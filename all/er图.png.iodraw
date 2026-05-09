@@ -4,9 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="s-rZEvOO0DlLfAngvEvb-4" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="20" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="s-rZEvOO0DlLfAngvEvb-24" value="Swagger / OpenAPI（接口文档与调试）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1321" y="1033" width="220" height="70" as="geometry" />
         </mxCell>
