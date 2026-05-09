@@ -8,7 +8,7 @@
           <mxGeometry x="230" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="su7M7CAhF2yhoOc3YVTk-17" value="课题组LabGroup" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="528" y="300" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="su7M7CAhF2yhoOc3YVTk-18" value="项目Project" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="130" width="120" height="60" as="geometry" />
@@ -20,7 +20,7 @@
           <mxGeometry x="680" y="480" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="su7M7CAhF2yhoOc3YVTk-21" value="加入MenberOf" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="120" width="80" height="80" as="geometry" />
+          <mxGeometry x="425" y="290" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="su7M7CAhF2yhoOc3YVTk-22" value="包含Has" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="200" y="20" width="80" height="80" as="geometry" />
@@ -37,13 +37,8 @@
         <mxCell id="su7M7CAhF2yhoOc3YVTk-26" value="审核Review" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="640" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="su7M7CAhF2yhoOc3YVTk-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="su7M7CAhF2yhoOc3YVTk-27">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="464" y="144" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="su7M7CAhF2yhoOc3YVTk-27" value="归属BelogTo" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="420" y="220" width="80" height="80" as="geometry" />
+          <mxGeometry x="432" y="120" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
