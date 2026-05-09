@@ -127,12 +127,12 @@
           <mxGeometry x="96" y="150" width="96" height="58" as="geometry" />
         </mxCell>
         <mxCell id="su7M7CAhF2yhoOc3YVTk-65" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="112" y="166" width="96" height="58" as="geometry" />
+          <mxGeometry x="832" y="428" width="96" height="58" as="geometry" />
         </mxCell>
         <mxCell id="su7M7CAhF2yhoOc3YVTk-66" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="832" y="370" width="96" height="58" as="geometry" />
+          <mxGeometry x="832" y="353" width="96" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="su7M7CAhF2yhoOc3YVTk-67" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="su7M7CAhF2yhoOc3YVTk-67" value="项目编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="832" y="242" width="96" height="58" as="geometry" />
         </mxCell>
         <mxCell id="su7M7CAhF2yhoOc3YVTk-68" value="是否归档" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
