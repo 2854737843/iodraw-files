@@ -26,7 +26,7 @@
           <mxGeometry x="200" y="20" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="su7M7CAhF2yhoOc3YVTk-23" value="包含Has" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="20" width="80" height="80" as="geometry" />
+          <mxGeometry x="784" y="290" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="su7M7CAhF2yhoOc3YVTk-24" value="指派Assign" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="425" y="10" width="80" height="80" as="geometry" />
