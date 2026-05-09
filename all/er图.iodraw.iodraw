@@ -35,7 +35,7 @@
           <mxGeometry x="130" y="10" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="su7M7CAhF2yhoOc3YVTk-13" value="审核Review" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="560" y="240" width="80" height="80" as="geometry" />
+          <mxGeometry x="420" y="460" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="su7M7CAhF2yhoOc3YVTk-15" value="归属BelogTo" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="220" width="80" height="80" as="geometry" />
