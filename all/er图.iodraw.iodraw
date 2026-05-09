@@ -4,7 +4,7 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="su7M7CAhF2yhoOc3YVTk-32" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="su7M7CAhF2yhoOc3YVTk-16" target="su7M7CAhF2yhoOc3YVTk-21">
+        <mxCell id="su7M7CAhF2yhoOc3YVTk-32" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="su7M7CAhF2yhoOc3YVTk-16" target="su7M7CAhF2yhoOc3YVTk-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="su7M7CAhF2yhoOc3YVTk-16" value="用户User" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -21,6 +21,9 @@
         </mxCell>
         <mxCell id="su7M7CAhF2yhoOc3YVTk-20" value="周报WeekReport" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="528" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="su7M7CAhF2yhoOc3YVTk-33" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="su7M7CAhF2yhoOc3YVTk-21" target="su7M7CAhF2yhoOc3YVTk-17">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="su7M7CAhF2yhoOc3YVTk-21" value="加入MenberOf" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="425" y="290" width="80" height="80" as="geometry" />
