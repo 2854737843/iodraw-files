@@ -4,61 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="s-rZEvOO0DlLfAngvEvb-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="s-rZEvOO0DlLfAngvEvb-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="100" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="s-rZEvOO0DlLfAngvEvb-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="s-rZEvOO0DlLfAngvEvb-6">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="330" y="562.6666870117188" as="targetPoint" />
-            <mxPoint x="250" y="100" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="250" y="130" />
-              <mxPoint x="250" y="600" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="s-rZEvOO0DlLfAngvEvb-1" value="管理员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="70" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="s-rZEvOO0DlLfAngvEvb-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="s-rZEvOO0DlLfAngvEvb-2" target="s-rZEvOO0DlLfAngvEvb-4">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="s-rZEvOO0DlLfAngvEvb-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s-rZEvOO0DlLfAngvEvb-2" target="s-rZEvOO0DlLfAngvEvb-8">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="s-rZEvOO0DlLfAngvEvb-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s-rZEvOO0DlLfAngvEvb-2" target="s-rZEvOO0DlLfAngvEvb-9">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="s-rZEvOO0DlLfAngvEvb-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="s-rZEvOO0DlLfAngvEvb-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="270" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="s-rZEvOO0DlLfAngvEvb-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="s-rZEvOO0DlLfAngvEvb-2" target="s-rZEvOO0DlLfAngvEvb-7">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="s-rZEvOO0DlLfAngvEvb-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="s-rZEvOO0DlLfAngvEvb-2" target="s-rZEvOO0DlLfAngvEvb-6">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="s-rZEvOO0DlLfAngvEvb-2" value="导师" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="240" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="s-rZEvOO0DlLfAngvEvb-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="s-rZEvOO0DlLfAngvEvb-4">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="220" y="440" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="310" y="440" />
-              <mxPoint x="310" y="80" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="s-rZEvOO0DlLfAngvEvb-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="s-rZEvOO0DlLfAngvEvb-3" target="s-rZEvOO0DlLfAngvEvb-10">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="s-rZEvOO0DlLfAngvEvb-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="s-rZEvOO0DlLfAngvEvb-3" target="s-rZEvOO0DlLfAngvEvb-7">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="s-rZEvOO0DlLfAngvEvb-3" value="学生" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="410" width="120" height="60" as="geometry" />
@@ -68,18 +18,6 @@
         </mxCell>
         <mxCell id="s-rZEvOO0DlLfAngvEvb-6" value="审计日志" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="360" y="570" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="s-rZEvOO0DlLfAngvEvb-7" value="周报管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="460" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="s-rZEvOO0DlLfAngvEvb-8" value="课题组与成员" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="140" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="s-rZEvOO0DlLfAngvEvb-9" value="项目管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="240" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="s-rZEvOO0DlLfAngvEvb-10" value="任务管理" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="350" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="s-rZEvOO0DlLfAngvEvb-24" value="Swagger / OpenAPI（接口文档与调试）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1321" y="1033" width="220" height="70" as="geometry" />
