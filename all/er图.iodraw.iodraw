@@ -29,7 +29,7 @@
           <mxGeometry x="784" y="290" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="su7M7CAhF2yhoOc3YVTk-24" value="指派Assign" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="425" y="10" width="80" height="80" as="geometry" />
+          <mxGeometry x="576" y="90" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="su7M7CAhF2yhoOc3YVTk-25" value="提交Submit" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="130" y="10" width="80" height="80" as="geometry" />
