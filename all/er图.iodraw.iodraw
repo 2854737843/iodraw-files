@@ -14,7 +14,7 @@
           <mxGeometry x="928" y="300" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="su7M7CAhF2yhoOc3YVTk-19" value="任务Task" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="928" y="100" width="120" height="60" as="geometry" />
+          <mxGeometry x="848" y="90" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="su7M7CAhF2yhoOc3YVTk-20" value="周报WeekReport" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="600" y="528" width="120" height="60" as="geometry" />
@@ -23,7 +23,7 @@
           <mxGeometry x="425" y="290" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="su7M7CAhF2yhoOc3YVTk-22" value="包含Has" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="948" y="192" width="80" height="80" as="geometry" />
+          <mxGeometry x="912" y="176" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="su7M7CAhF2yhoOc3YVTk-23" value="包含Has" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="784" y="290" width="80" height="80" as="geometry" />
