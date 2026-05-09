@@ -170,8 +170,14 @@
         <mxCell id="su7M7CAhF2yhoOc3YVTk-73" value="用户编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="96" y="255" width="96" height="58" as="geometry" />
         </mxCell>
+        <mxCell id="su7M7CAhF2yhoOc3YVTk-93" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="su7M7CAhF2yhoOc3YVTk-74" target="su7M7CAhF2yhoOc3YVTk-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="su7M7CAhF2yhoOc3YVTk-74" value="标题" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="752" y="132" width="96" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="su7M7CAhF2yhoOc3YVTk-94" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="su7M7CAhF2yhoOc3YVTk-75" target="su7M7CAhF2yhoOc3YVTk-52">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="su7M7CAhF2yhoOc3YVTk-75" value="状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="752" y="197" width="96" height="58" as="geometry" />
