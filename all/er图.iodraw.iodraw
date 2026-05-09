@@ -25,10 +25,10 @@
         <mxCell id="su7M7CAhF2yhoOc3YVTk-9" value="包含Has" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="160" y="10" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="su7M7CAhF2yhoOc3YVTk-10" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="su7M7CAhF2yhoOc3YVTk-10" value="包含Has" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="20" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="su7M7CAhF2yhoOc3YVTk-11" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="su7M7CAhF2yhoOc3YVTk-11" value="指派Assign" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="425" y="10" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="su7M7CAhF2yhoOc3YVTk-12" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
