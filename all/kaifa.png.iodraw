@@ -31,24 +31,6 @@
         <mxCell id="WQ-emxFwhtNVnw21rhRf-9" value="提交反馈建议" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1173" y="226" width="156" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="WQ-emxFwhtNVnw21rhRf-10" value="访问限制" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="730" y="460" width="124" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="WQ-emxFwhtNVnw21rhRf-11" value="仅能访问前台界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1379" y="226" width="189" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="WQ-emxFwhtNVnw21rhRf-12" value="无权进入后台管理页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1618" y="226" width="220" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="WQ-emxFwhtNVnw21rhRf-13" value="不能查看他人信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1888" y="226" width="189" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="WQ-emxFwhtNVnw21rhRf-14" value="不能修改系统配置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2127" y="226" width="189" height="49" as="geometry" />
-        </mxCell>
-        <mxCell id="WQ-emxFwhtNVnw21rhRf-15" value="不能操作他人预约记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2366" y="226" width="221" height="49" as="geometry" />
-        </mxCell>
         <mxCell id="WQ-emxFwhtNVnw21rhRf-16" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.76;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="WQ-emxFwhtNVnw21rhRf-1" target="WQ-emxFwhtNVnw21rhRf-2">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -103,44 +85,12 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WQ-emxFwhtNVnw21rhRf-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.56;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="WQ-emxFwhtNVnw21rhRf-1" target="WQ-emxFwhtNVnw21rhRf-10">
+        <mxCell id="WQ-emxFwhtNVnw21rhRf-24" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.56;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="WQ-emxFwhtNVnw21rhRf-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1982" y="94" />
             </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WQ-emxFwhtNVnw21rhRf-25" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.61;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="WQ-emxFwhtNVnw21rhRf-10" target="WQ-emxFwhtNVnw21rhRf-11">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1473" y="192" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WQ-emxFwhtNVnw21rhRf-26" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.73;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="WQ-emxFwhtNVnw21rhRf-10" target="WQ-emxFwhtNVnw21rhRf-12">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1728" y="192" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WQ-emxFwhtNVnw21rhRf-27" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="WQ-emxFwhtNVnw21rhRf-10" target="WQ-emxFwhtNVnw21rhRf-13">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WQ-emxFwhtNVnw21rhRf-28" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.75;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="WQ-emxFwhtNVnw21rhRf-10" target="WQ-emxFwhtNVnw21rhRf-14">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2221" y="192" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="WQ-emxFwhtNVnw21rhRf-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.62;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="WQ-emxFwhtNVnw21rhRf-10" target="WQ-emxFwhtNVnw21rhRf-15">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="2476" y="192" />
-            </Array>
+            <mxPoint x="1981.9999999999995" y="119" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
