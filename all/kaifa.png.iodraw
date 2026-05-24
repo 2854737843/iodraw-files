@@ -11,19 +11,24 @@
           <mxGeometry x="1590" y="119" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="WQ-emxFwhtNVnw21rhRf-32" value="用户管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="322" y="217" width="124" height="49" as="geometry" />
+          <mxGeometry x="910" y="500" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="WQ-emxFwhtNVnw21rhRf-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="WQ-emxFwhtNVnw21rhRf-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="400" y="470" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="WQ-emxFwhtNVnw21rhRf-33" value="查看/筛选用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="20" y="316" width="164" height="49" as="geometry" />
         </mxCell>
         <mxCell id="WQ-emxFwhtNVnw21rhRf-34" value="重置密码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="234" y="316" width="124" height="49" as="geometry" />
+          <mxGeometry x="822" y="599" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="WQ-emxFwhtNVnw21rhRf-35" value="禁用账号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="408" y="316" width="125" height="49" as="geometry" />
+          <mxGeometry x="996" y="599" width="125" height="49" as="geometry" />
         </mxCell>
         <mxCell id="WQ-emxFwhtNVnw21rhRf-36" value="调整角色" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="583" y="316" width="124" height="49" as="geometry" />
+          <mxGeometry x="1171" y="599" width="124" height="49" as="geometry" />
         </mxCell>
         <mxCell id="WQ-emxFwhtNVnw21rhRf-37" value="座位管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="947" y="217" width="124" height="49" as="geometry" />
@@ -85,31 +90,32 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="WQ-emxFwhtNVnw21rhRf-55" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.73;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="WQ-emxFwhtNVnw21rhRf-32" target="WQ-emxFwhtNVnw21rhRf-33">
+        <mxCell id="WQ-emxFwhtNVnw21rhRf-55" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.73;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="WQ-emxFwhtNVnw21rhRf-32">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="102" y="291" />
+              <mxPoint x="690" y="574" />
             </Array>
+            <mxPoint x="689.9999999999995" y="598.9999999999998" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="WQ-emxFwhtNVnw21rhRf-56" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.15;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="WQ-emxFwhtNVnw21rhRf-32" target="WQ-emxFwhtNVnw21rhRf-34">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="296" y="291" />
+              <mxPoint x="884" y="574" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WQ-emxFwhtNVnw21rhRf-57" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.84;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="WQ-emxFwhtNVnw21rhRf-32" target="WQ-emxFwhtNVnw21rhRf-35">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="471" y="291" />
+              <mxPoint x="1059" y="574" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="WQ-emxFwhtNVnw21rhRf-58" value="" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.74;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="WQ-emxFwhtNVnw21rhRf-32" target="WQ-emxFwhtNVnw21rhRf-36">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="645" y="291" />
+              <mxPoint x="1233" y="574" />
             </Array>
           </mxGeometry>
         </mxCell>
