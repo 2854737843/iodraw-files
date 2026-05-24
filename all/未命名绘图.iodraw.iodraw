@@ -22,30 +22,6 @@
         <mxCell id="mPJbs0kEf0MOU-oKjh1a-8" value="无权访问后台管理" style="whiteSpace=wrap;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
           <mxGeometry x="50" y="30" width="189" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="mPJbs0kEf0MOU-oKjh1a-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.61;exitY=1.01;entryX=0;entryY=0.31;rounded=0;" edge="1" parent="1" target="mPJbs0kEf0MOU-oKjh1a-5">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="495" y="118" />
-            </Array>
-            <mxPoint x="473.54901960784287" y="93" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mPJbs0kEf0MOU-oKjh1a-13" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.67;exitY=1.01;entryX=0;entryY=0.4;rounded=0;" edge="1" parent="1" target="mPJbs0kEf0MOU-oKjh1a-6">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="515" y="118" />
-            </Array>
-            <mxPoint x="483.6666666666663" y="93" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mPJbs0kEf0MOU-oKjh1a-14" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.73;exitY=1.01;entryX=0;entryY=0.43;rounded=0;" edge="1" parent="1" target="mPJbs0kEf0MOU-oKjh1a-7">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="535" y="118" />
-            </Array>
-            <mxPoint x="493.78431372549016" y="93" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="mPJbs0kEf0MOU-oKjh1a-15" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0;exitY=0.79;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="mPJbs0kEf0MOU-oKjh1a-8">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
