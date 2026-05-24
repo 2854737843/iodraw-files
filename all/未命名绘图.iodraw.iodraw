@@ -40,11 +40,6 @@
         <mxCell id="mPJbs0kEf0MOU-oKjh1a-27" value="仅能访问前台界面" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="770" y="280" width="159" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="mPJbs0kEf0MOU-oKjh1a-48" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="mPJbs0kEf0MOU-oKjh1a-28">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1330" y="370" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="mPJbs0kEf0MOU-oKjh1a-29" value="不能查看他人信息" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1040" y="240" width="158" height="48" as="geometry" />
         </mxCell>
@@ -105,20 +100,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1125" y="432" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mPJbs0kEf0MOU-oKjh1a-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.62;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="mPJbs0kEf0MOU-oKjh1a-28" target="mPJbs0kEf0MOU-oKjh1a-27">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1319" y="432" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mPJbs0kEf0MOU-oKjh1a-42" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.73;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="mPJbs0kEf0MOU-oKjh1a-26" target="mPJbs0kEf0MOU-oKjh1a-28">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1543" y="432" />
             </Array>
           </mxGeometry>
         </mxCell>
