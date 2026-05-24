@@ -28,6 +28,15 @@
         <mxCell id="LA4O4h8Pp1DYypU-k2Un-9" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="290" y="520" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-10" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="530" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-11" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="310" y="540" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-12" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="320" y="550" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
