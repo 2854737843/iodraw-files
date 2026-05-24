@@ -107,6 +107,9 @@
         <mxCell id="mPJbs0kEf0MOU-oKjh1a-28" value="无权进入后台管理页面" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=22;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="750" y="250" width="160" height="88" as="geometry" />
         </mxCell>
+        <mxCell id="mPJbs0kEf0MOU-oKjh1a-57" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0.313;entryY=1.074;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="mPJbs0kEf0MOU-oKjh1a-26" target="mPJbs0kEf0MOU-oKjh1a-31">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
