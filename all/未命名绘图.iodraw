@@ -28,6 +28,9 @@
         <mxCell id="LA4O4h8Pp1DYypU-k2Un-4" value="项目" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="510" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-48" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="LA4O4h8Pp1DYypU-k2Un-5" target="LA4O4h8Pp1DYypU-k2Un-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LA4O4h8Pp1DYypU-k2Un-5" value="课题组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="510" width="120" height="60" as="geometry" />
         </mxCell>
@@ -48,6 +51,9 @@
         </mxCell>
         <mxCell id="LA4O4h8Pp1DYypU-k2Un-11" value="归属" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="620" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-49" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="LA4O4h8Pp1DYypU-k2Un-12" target="LA4O4h8Pp1DYypU-k2Un-4">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LA4O4h8Pp1DYypU-k2Un-12" value="包含" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="500" width="80" height="80" as="geometry" />
