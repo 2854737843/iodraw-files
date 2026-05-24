@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="fZmvSfsCtlMS5XYh6j5r">
-    <mxGraphModel dx="1500" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1750" dy="883" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -39,7 +39,7 @@
             <mxPoint x="107.14285714285734" y="550" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="mPJbs0kEf0MOU-oKjh1a-21" value="查看和修改个人信息" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=21;whiteSpace=wrap;" vertex="1" parent="1">
+        <mxCell id="mPJbs0kEf0MOU-oKjh1a-21" value="查看和修改个人信息" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=26;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="20" y="466" width="174" height="104" as="geometry" />
         </mxCell>
         <mxCell id="mPJbs0kEf0MOU-oKjh1a-22" value="实时查看各楼层、区域座位的空闲/已预约/使用中状态" style="rounded=1;arcSize=20;strokeWidth=2;verticalAlign=middle;whiteSpace=wrap;fontSize=22;" vertex="1" parent="1">
