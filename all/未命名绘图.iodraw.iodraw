@@ -28,11 +28,21 @@
         <mxCell id="mPJbs0kEf0MOU-oKjh1a-20" value="登录后可进行以下操作" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="533" y="358" width="191" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="mPJbs0kEf0MOU-oKjh1a-53" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="mPJbs0kEf0MOU-oKjh1a-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="107.14285714285734" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mPJbs0kEf0MOU-oKjh1a-21" value="查看和修改个人信息" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="20" y="466" width="174" height="48" as="geometry" />
+          <mxGeometry x="20" y="466" width="174" height="104" as="geometry" />
         </mxCell>
         <mxCell id="mPJbs0kEf0MOU-oKjh1a-22" value="实时查看各楼层、区域座位的空闲/已预约/使用中状态" style="rounded=1;arcSize=20;strokeWidth=2;verticalAlign=middle;whiteSpace=wrap;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="244" y="457" width="223" height="113" as="geometry" />
+        </mxCell>
+        <mxCell id="mPJbs0kEf0MOU-oKjh1a-54" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="mPJbs0kEf0MOU-oKjh1a-23">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="628.5714285714289" y="560" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="mPJbs0kEf0MOU-oKjh1a-23" value="按规则预约、签到、取消预约" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=22;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="517" y="457" width="223" height="66" as="geometry" />
