@@ -38,16 +38,18 @@
           <mxGeometry x="760" y="110" width="140" height="110" as="geometry" />
         </mxCell>
         <mxCell id="mPJbs0kEf0MOU-oKjh1a-27" value="仅能访问前台界面" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1239" y="466" width="159" height="48" as="geometry" />
+          <mxGeometry x="770" y="280" width="159" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="mPJbs0kEf0MOU-oKjh1a-28" value="无权进入后台管理页面" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1448" y="466" width="190" height="48" as="geometry" />
+        <mxCell id="mPJbs0kEf0MOU-oKjh1a-48" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="mPJbs0kEf0MOU-oKjh1a-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1330" y="370" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="mPJbs0kEf0MOU-oKjh1a-29" value="不能查看他人信息" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1688" y="466" width="158" height="48" as="geometry" />
+          <mxGeometry x="1040" y="240" width="158" height="48" as="geometry" />
         </mxCell>
         <mxCell id="mPJbs0kEf0MOU-oKjh1a-30" value="不能修改系统配置" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
-          <mxGeometry x="1896" y="466" width="158" height="48" as="geometry" />
+          <mxGeometry x="1012" y="140.5" width="158" height="48" as="geometry" />
         </mxCell>
         <mxCell id="mPJbs0kEf0MOU-oKjh1a-31" value="不能操作他人预约记录" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="1000" y="50" width="190" height="48" as="geometry" />
@@ -106,7 +108,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="mPJbs0kEf0MOU-oKjh1a-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.62;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="mPJbs0kEf0MOU-oKjh1a-26" target="mPJbs0kEf0MOU-oKjh1a-27">
+        <mxCell id="mPJbs0kEf0MOU-oKjh1a-41" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.62;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="mPJbs0kEf0MOU-oKjh1a-28" target="mPJbs0kEf0MOU-oKjh1a-27">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="1319" y="432" />
@@ -139,6 +141,16 @@
               <mxPoint x="2199" y="432" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="mPJbs0kEf0MOU-oKjh1a-49" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.62;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="mPJbs0kEf0MOU-oKjh1a-26" target="mPJbs0kEf0MOU-oKjh1a-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="760" y="178" as="sourcePoint" />
+            <mxPoint x="1319" y="466" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="mPJbs0kEf0MOU-oKjh1a-28" value="无权进入后台管理页面" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+          <mxGeometry x="1040" y="310" width="190" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
