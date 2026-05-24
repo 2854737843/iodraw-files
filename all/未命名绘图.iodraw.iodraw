@@ -53,6 +53,9 @@
         <mxCell id="mPJbs0kEf0MOU-oKjh1a-25" value="提交反馈建议" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1062" y="466" width="128" height="48" as="geometry" />
         </mxCell>
+        <mxCell id="mPJbs0kEf0MOU-oKjh1a-56" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="mPJbs0kEf0MOU-oKjh1a-26" target="mPJbs0kEf0MOU-oKjh1a-27">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mPJbs0kEf0MOU-oKjh1a-26" value="权限限制" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=31;" vertex="1" parent="1">
           <mxGeometry x="640" y="110" width="140" height="110" as="geometry" />
         </mxCell>
