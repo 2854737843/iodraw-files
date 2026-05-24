@@ -4,12 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="mPJbs0kEf0MOU-oKjh1a-5" value="预约管理: 预约/签到/取消" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1112" y="152" width="248" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="mPJbs0kEf0MOU-oKjh1a-7" value="提交反馈建议" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1713" y="152" width="158" height="48" as="geometry" />
-        </mxCell>
         <mxCell id="mPJbs0kEf0MOU-oKjh1a-17" value="普通用户（学生）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="422" y="260" width="188" height="48" as="geometry" />
         </mxCell>
@@ -25,7 +19,7 @@
         <mxCell id="mPJbs0kEf0MOU-oKjh1a-21" value="查看和修改个人信息" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
           <mxGeometry x="20" y="466" width="174" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="mPJbs0kEf0MOU-oKjh1a-22" value="实时查看各楼层、区域座位的空闲/已预约/使用中状态" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="mPJbs0kEf0MOU-oKjh1a-22" value="实时查看各楼层、区域座位的空闲/已预约/使用中状态" style="rounded=1;arcSize=20;strokeWidth=2;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="244" y="457" width="223" height="66" as="geometry" />
         </mxCell>
         <mxCell id="mPJbs0kEf0MOU-oKjh1a-23" value="按规则预约、签到、取消预约" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
