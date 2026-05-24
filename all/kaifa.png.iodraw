@@ -13,13 +13,8 @@
         <mxCell id="WQ-emxFwhtNVnw21rhRf-32" value="用户管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="910" y="500" width="124" height="49" as="geometry" />
         </mxCell>
-        <mxCell id="WQ-emxFwhtNVnw21rhRf-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="WQ-emxFwhtNVnw21rhRf-33">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="400" y="470" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="WQ-emxFwhtNVnw21rhRf-33" value="查看/筛选用户" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="20" y="316" width="164" height="49" as="geometry" />
+          <mxGeometry x="600" y="600" width="164" height="49" as="geometry" />
         </mxCell>
         <mxCell id="WQ-emxFwhtNVnw21rhRf-34" value="重置密码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="822" y="599" width="124" height="49" as="geometry" />
