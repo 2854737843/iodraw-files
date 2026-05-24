@@ -4,31 +4,11 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="mPJbs0kEf0MOU-oKjh1a-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1080" y="190" as="targetPoint" />
-            <mxPoint x="20.000000000000455" y="19.999999999999773" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="mPJbs0kEf0MOU-oKjh1a-5" value="预约管理: 预约/签到/取消" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1112" y="152" width="248" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="mPJbs0kEf0MOU-oKjh1a-6" value="查看预约记录/违约记录/信用状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="1410" y="143" width="253" height="66" as="geometry" />
-        </mxCell>
         <mxCell id="mPJbs0kEf0MOU-oKjh1a-7" value="提交反馈建议" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1713" y="152" width="158" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="mPJbs0kEf0MOU-oKjh1a-8" value="无权访问后台管理" style="whiteSpace=wrap;strokeWidth=2;fontSize=13;" vertex="1" parent="1">
-          <mxGeometry x="50" y="30" width="189" height="48" as="geometry" />
-        </mxCell>
-        <mxCell id="mPJbs0kEf0MOU-oKjh1a-15" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0;exitY=0.79;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" target="mPJbs0kEf0MOU-oKjh1a-8">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="149" y="118" />
-            </Array>
-            <mxPoint x="369" y="82.91999999999996" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="mPJbs0kEf0MOU-oKjh1a-17" value="普通用户（学生）" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="422" y="260" width="188" height="48" as="geometry" />
