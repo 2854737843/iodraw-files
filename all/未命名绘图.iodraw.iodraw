@@ -10,6 +10,12 @@
         <mxCell id="mPJbs0kEf0MOU-oKjh1a-50" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="mPJbs0kEf0MOU-oKjh1a-17" target="mPJbs0kEf0MOU-oKjh1a-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="mPJbs0kEf0MOU-oKjh1a-51" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="mPJbs0kEf0MOU-oKjh1a-17" target="mPJbs0kEf0MOU-oKjh1a-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mPJbs0kEf0MOU-oKjh1a-52" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="mPJbs0kEf0MOU-oKjh1a-17" target="mPJbs0kEf0MOU-oKjh1a-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mPJbs0kEf0MOU-oKjh1a-17" value="普通用户（学生）" style="whiteSpace=wrap;strokeWidth=2;fontSize=26;" vertex="1" parent="1">
           <mxGeometry x="273" y="120.5" width="230" height="89" as="geometry" />
         </mxCell>
