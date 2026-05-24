@@ -31,20 +31,6 @@
         <mxCell id="mPJbs0kEf0MOU-oKjh1a-9" value="无法查看他人信息/修改配置/操作他人预约" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="294" y="143" width="245" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="mPJbs0kEf0MOU-oKjh1a-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.45;exitY=1.01;entryX=0;entryY=0.07;rounded=0;" edge="1" parent="1" source="mPJbs0kEf0MOU-oKjh1a-2" target="mPJbs0kEf0MOU-oKjh1a-3">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="436" y="118" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mPJbs0kEf0MOU-oKjh1a-11" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1.01;entryX=0;entryY=0.33;rounded=0;" edge="1" parent="1" source="mPJbs0kEf0MOU-oKjh1a-2" target="mPJbs0kEf0MOU-oKjh1a-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="456" y="118" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="mPJbs0kEf0MOU-oKjh1a-12" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.61;exitY=1.01;entryX=0;entryY=0.31;rounded=0;" edge="1" parent="1" source="mPJbs0kEf0MOU-oKjh1a-2" target="mPJbs0kEf0MOU-oKjh1a-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
@@ -70,13 +56,6 @@
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
               <mxPoint x="149" y="118" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mPJbs0kEf0MOU-oKjh1a-16" value="" style="curved=1;dashed=1;dashPattern=2 3;startArrow=none;endArrow=block;exitX=0.39;exitY=1.01;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="mPJbs0kEf0MOU-oKjh1a-2" target="mPJbs0kEf0MOU-oKjh1a-9">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="416" y="118" />
             </Array>
           </mxGeometry>
         </mxCell>
