@@ -11,7 +11,7 @@
           <mxGeometry x="369" y="45" width="172" height="48" as="geometry" />
         </mxCell>
         <mxCell id="mPJbs0kEf0MOU-oKjh1a-3" value="查看/修改个人信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="611" y="152" width="196" height="48" as="geometry" />
+          <mxGeometry x="330" y="161" width="196" height="48" as="geometry" />
         </mxCell>
         <mxCell id="mPJbs0kEf0MOU-oKjh1a-4" value="查看座位状态: 空闲/已预约/使用中" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="857" y="143" width="205" height="66" as="geometry" />
