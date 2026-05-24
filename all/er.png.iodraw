@@ -213,6 +213,347 @@
         <mxCell id="LA4O4h8Pp1DYypU-k2Un-86" value="N" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="420" y="740" width="60" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-88" value="系统管理员权限" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2191" y="1492" width="3445" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-89" value="普通用户 (学生) 权限" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="1303" width="1419" height="116" as="geometry" />
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-90" value="系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1158" y="930" width="93" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-91" value="角色" style="rhombus;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="1164" y="1029" width="81" height="81" as="geometry" />
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-92" value="权限" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="976" y="1182" width="93" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-93" value="普通用户 (学生)" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1118" y="1182" width="173" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-94" value="系统管理员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="4142" y="1182" width="141" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-95" value="登录系统" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="55" y="1337" width="125" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-96" value="查看/修改个人信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="230" y="1337" width="197" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-97" value="查看座位状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="477" y="1337" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-98" value="座位预约/签到/取消" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="683" y="1337" width="205" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-99" value="查看个人预约记录/违约记录/信用状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="938" y="1328" width="244" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-100" value="提交反馈与建议" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1232" y="1337" width="172" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-101" value="仅访问前台用户界面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1474" y="1337" width="205" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-102" value="无权访问后台管理页面" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1729" y="1337" width="220" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-103" value="无法查看他人信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="1999" y="1337" width="189" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-104" value="不能修改系统配置" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2237" y="1337" width="189" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-105" value="不能操作他人预约记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2476" y="1337" width="221" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-106" value="用户管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2747" y="1337" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-107" value="查看用户列表/筛选查询" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2226" y="1526" width="228" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-108" value="重置用户密码" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2504" y="1526" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-109" value="禁用/启用用户账号" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2710" y="1526" width="197" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-110" value="调整用户角色" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="2957" y="1526" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-111" value="座位管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3343" y="1337" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-112" value="新增/编辑/删除座位" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3163" y="1526" width="205" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-113" value="设置座位状态/区域楼层/可视化布局" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3418" y="1517" width="253" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-114" value="预约管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="4265" y="1337" width="124" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-115" value="查询全量预约记录/筛选" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3721" y="1526" width="228" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-116" value="手动处理违约记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3999" y="1526" width="188" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-117" value="修改异常预约状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="4237" y="1526" width="188" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-118" value="释放被占用座位" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="4475" y="1526" width="172" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-119" value="统计分析管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="4745" y="1337" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-120" value="查看预约趋势/使用率/签到违约统计" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="4697" y="1517" width="253" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-121" value="系统管理" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="5333" y="1337" width="125" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-122" value="维护反馈信息" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="5000" y="1526" width="157" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-123" value="调整预约规则" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="5207" y="1526" width="156" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-124" value="监控系统运行状态" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="5413" y="1526" width="188" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-125" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="LA4O4h8Pp1DYypU-k2Un-90" target="LA4O4h8Pp1DYypU-k2Un-91">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-126" value="拥有" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.7;entryX=0.49;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="LA4O4h8Pp1DYypU-k2Un-91" target="LA4O4h8Pp1DYypU-k2Un-92">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1022" y="1146" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-127" value="分为" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="LA4O4h8Pp1DYypU-k2Un-91" target="LA4O4h8Pp1DYypU-k2Un-93">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-128" value="分为" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.51;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="LA4O4h8Pp1DYypU-k2Un-91" target="LA4O4h8Pp1DYypU-k2Un-94">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4212" y="1146" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-129" value="拥有权限" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.59;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="LA4O4h8Pp1DYypU-k2Un-93" target="LA4O4h8Pp1DYypU-k2Un-95">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="117" y="1267" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-130" value="拥有权限" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.62;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="LA4O4h8Pp1DYypU-k2Un-93" target="LA4O4h8Pp1DYypU-k2Un-96">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="328" y="1267" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-131" value="拥有权限" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.66;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="LA4O4h8Pp1DYypU-k2Un-93" target="LA4O4h8Pp1DYypU-k2Un-97">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="555" y="1267" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-132" value="拥有权限" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.75;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="LA4O4h8Pp1DYypU-k2Un-93" target="LA4O4h8Pp1DYypU-k2Un-98">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="785" y="1267" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-133" value="拥有权限" style="curved=1;startArrow=none;endArrow=block;exitX=0.16;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="LA4O4h8Pp1DYypU-k2Un-93" target="LA4O4h8Pp1DYypU-k2Un-99">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1060" y="1267" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-134" value="拥有权限" style="curved=1;startArrow=none;endArrow=block;exitX=0.76;exitY=0.99;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="LA4O4h8Pp1DYypU-k2Un-93" target="LA4O4h8Pp1DYypU-k2Un-100">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1318" y="1267" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-135" value="限制" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.78;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="LA4O4h8Pp1DYypU-k2Un-93" target="LA4O4h8Pp1DYypU-k2Un-101">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1576" y="1267" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-136" value="限制" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.67;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="LA4O4h8Pp1DYypU-k2Un-93" target="LA4O4h8Pp1DYypU-k2Un-102">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1839" y="1267" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-137" value="限制" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.62;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="LA4O4h8Pp1DYypU-k2Un-93" target="LA4O4h8Pp1DYypU-k2Un-103">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2093" y="1267" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-138" value="限制" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.59;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="LA4O4h8Pp1DYypU-k2Un-93" target="LA4O4h8Pp1DYypU-k2Un-104">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2332" y="1267" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-139" value="限制" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.57;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="LA4O4h8Pp1DYypU-k2Un-93" target="LA4O4h8Pp1DYypU-k2Un-105">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2586" y="1267" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-140" value="拥有权限" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.56;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="LA4O4h8Pp1DYypU-k2Un-94" target="LA4O4h8Pp1DYypU-k2Un-106">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2809" y="1267" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-141" value="包含" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.66;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="LA4O4h8Pp1DYypU-k2Un-106" target="LA4O4h8Pp1DYypU-k2Un-107">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2340" y="1420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-142" value="包含" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.82;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="LA4O4h8Pp1DYypU-k2Un-106" target="LA4O4h8Pp1DYypU-k2Un-108">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="2582" y="1420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-143" value="包含" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="LA4O4h8Pp1DYypU-k2Un-106" target="LA4O4h8Pp1DYypU-k2Un-109">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-144" value="包含" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.82;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="LA4O4h8Pp1DYypU-k2Un-106" target="LA4O4h8Pp1DYypU-k2Un-110">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3035" y="1420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-145" value="拥有权限" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.6;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="LA4O4h8Pp1DYypU-k2Un-94" target="LA4O4h8Pp1DYypU-k2Un-111">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3405" y="1267" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-146" value="包含" style="curved=1;startArrow=none;endArrow=block;exitX=0.03;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="LA4O4h8Pp1DYypU-k2Un-111" target="LA4O4h8Pp1DYypU-k2Un-112">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3265" y="1420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-147" value="包含" style="curved=1;startArrow=none;endArrow=block;exitX=0.97;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="LA4O4h8Pp1DYypU-k2Un-111" target="LA4O4h8Pp1DYypU-k2Un-113">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3544" y="1420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-148" value="拥有权限" style="curved=1;startArrow=none;endArrow=block;exitX=0.82;exitY=0.99;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="LA4O4h8Pp1DYypU-k2Un-94" target="LA4O4h8Pp1DYypU-k2Un-114">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4327" y="1267" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-149" value="包含" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.65;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="LA4O4h8Pp1DYypU-k2Un-114" target="LA4O4h8Pp1DYypU-k2Un-115">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="3835" y="1420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-150" value="包含" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.81;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="LA4O4h8Pp1DYypU-k2Un-114" target="LA4O4h8Pp1DYypU-k2Un-116">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4093" y="1420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-151" value="包含" style="curved=1;startArrow=none;endArrow=block;exitX=0.51;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="LA4O4h8Pp1DYypU-k2Un-114" target="LA4O4h8Pp1DYypU-k2Un-117">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4331" y="1420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-152" value="包含" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.81;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="LA4O4h8Pp1DYypU-k2Un-114" target="LA4O4h8Pp1DYypU-k2Un-118">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4561" y="1420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-153" value="拥有权限" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.64;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="LA4O4h8Pp1DYypU-k2Un-94" target="LA4O4h8Pp1DYypU-k2Un-119">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="4823" y="1267" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-154" value="包含" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="LA4O4h8Pp1DYypU-k2Un-119" target="LA4O4h8Pp1DYypU-k2Un-120">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-155" value="拥有权限" style="curved=1;startArrow=none;endArrow=block;exitX=1;exitY=0.57;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="LA4O4h8Pp1DYypU-k2Un-94" target="LA4O4h8Pp1DYypU-k2Un-121">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5396" y="1267" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-156" value="包含" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.73;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="LA4O4h8Pp1DYypU-k2Un-121" target="LA4O4h8Pp1DYypU-k2Un-122">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5078" y="1420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-157" value="包含" style="curved=1;startArrow=none;endArrow=block;exitX=0.13;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="LA4O4h8Pp1DYypU-k2Un-121" target="LA4O4h8Pp1DYypU-k2Un-123">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5285" y="1420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-158" value="包含" style="curved=1;startArrow=none;endArrow=block;exitX=0.87;exitY=1;entryX=0.5;entryY=0;rounded=0;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1" source="LA4O4h8Pp1DYypU-k2Un-121" target="LA4O4h8Pp1DYypU-k2Un-124">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="5507" y="1420" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
