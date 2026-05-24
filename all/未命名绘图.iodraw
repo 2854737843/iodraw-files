@@ -7,7 +7,7 @@
         <mxCell id="LA4O4h8Pp1DYypU-k2Un-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="510" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="LA4O4h8Pp1DYypU-k2Un-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-2" value="周报" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="750" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="LA4O4h8Pp1DYypU-k2Un-3" value="任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -18,6 +18,9 @@
         </mxCell>
         <mxCell id="LA4O4h8Pp1DYypU-k2Un-5" value="课题组" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="440" y="510" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-7" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="460" y="500" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
