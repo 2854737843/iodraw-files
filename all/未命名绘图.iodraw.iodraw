@@ -25,11 +25,11 @@
         <mxCell id="mPJbs0kEf0MOU-oKjh1a-7" value="提交反馈建议" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1713" y="152" width="158" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="mPJbs0kEf0MOU-oKjh1a-8" value="无权访问后台管理" style="whiteSpace=wrap;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="mPJbs0kEf0MOU-oKjh1a-8" value="无权访问后台管理" style="whiteSpace=wrap;strokeWidth=2;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="50" y="30" width="189" height="48" as="geometry" />
         </mxCell>
         <mxCell id="mPJbs0kEf0MOU-oKjh1a-9" value="无法查看他人信息/修改配置/操作他人预约" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="294" y="143" width="245" height="66" as="geometry" />
+          <mxGeometry x="50" y="152" width="245" height="66" as="geometry" />
         </mxCell>
         <mxCell id="mPJbs0kEf0MOU-oKjh1a-10" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.45;exitY=1.01;entryX=0;entryY=0.07;rounded=0;" edge="1" parent="1" source="mPJbs0kEf0MOU-oKjh1a-2" target="mPJbs0kEf0MOU-oKjh1a-3">
           <mxGeometry relative="1" as="geometry">
