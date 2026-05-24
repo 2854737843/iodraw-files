@@ -13,7 +13,7 @@
         <mxCell id="mPJbs0kEf0MOU-oKjh1a-19" value="拥有基础预约权限" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="323" y="358" width="160" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="mPJbs0kEf0MOU-oKjh1a-20" value="登录后可进行以下操作" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="mPJbs0kEf0MOU-oKjh1a-20" value="登录后可进行以下操作" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="533" y="358" width="191" height="48" as="geometry" />
         </mxCell>
         <mxCell id="mPJbs0kEf0MOU-oKjh1a-21" value="查看和修改个人信息" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
