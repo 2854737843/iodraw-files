@@ -7,10 +7,10 @@
         <mxCell id="mPJbs0kEf0MOU-oKjh1a-17" value="普通用户（学生）" style="whiteSpace=wrap;strokeWidth=2;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="422" y="260" width="188" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="mPJbs0kEf0MOU-oKjh1a-18" value="系统的主要服务对象" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=17;" vertex="1" parent="1">
+        <mxCell id="mPJbs0kEf0MOU-oKjh1a-18" value="系统的主要服务对象" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="99" y="358" width="174" height="48" as="geometry" />
         </mxCell>
-        <mxCell id="mPJbs0kEf0MOU-oKjh1a-19" value="拥有基础预约权限" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="mPJbs0kEf0MOU-oKjh1a-19" value="拥有基础预约权限" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="323" y="358" width="160" height="48" as="geometry" />
         </mxCell>
         <mxCell id="mPJbs0kEf0MOU-oKjh1a-20" value="登录后可进行以下操作" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
