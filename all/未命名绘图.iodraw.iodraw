@@ -28,7 +28,7 @@
         <mxCell id="mPJbs0kEf0MOU-oKjh1a-24" value="查看本人的预约记录、违约记录及信用状态" style="rounded=1;arcSize=20;strokeWidth=2;whiteSpace=wrap;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="790" y="457" width="222" height="66" as="geometry" />
         </mxCell>
-        <mxCell id="mPJbs0kEf0MOU-oKjh1a-25" value="提交反馈建议" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
+        <mxCell id="mPJbs0kEf0MOU-oKjh1a-25" value="提交反馈建议" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="1062" y="466" width="128" height="48" as="geometry" />
         </mxCell>
         <mxCell id="mPJbs0kEf0MOU-oKjh1a-26" value="权限限制" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
