@@ -37,7 +37,7 @@
         <mxCell id="mPJbs0kEf0MOU-oKjh1a-26" value="权限限制" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=31;" vertex="1" parent="1">
           <mxGeometry x="760" y="110" width="140" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="mPJbs0kEf0MOU-oKjh1a-27" value="仅能访问前台界面" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="mPJbs0kEf0MOU-oKjh1a-27" value="仅能访问前台界面" style="rounded=1;arcSize=20;strokeWidth=2;fontSize=22;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="750.5" y="20" width="159" height="58" as="geometry" />
         </mxCell>
         <mxCell id="mPJbs0kEf0MOU-oKjh1a-29" value="不能查看他人信息" style="rounded=1;arcSize=20;strokeWidth=2" vertex="1" parent="1">
