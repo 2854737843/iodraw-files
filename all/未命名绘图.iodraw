@@ -25,6 +25,9 @@
         <mxCell id="LA4O4h8Pp1DYypU-k2Un-3" value="任务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="250" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-50" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="LA4O4h8Pp1DYypU-k2Un-4" target="LA4O4h8Pp1DYypU-k2Un-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LA4O4h8Pp1DYypU-k2Un-4" value="项目" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="840" y="510" width="120" height="60" as="geometry" />
         </mxCell>
@@ -39,6 +42,9 @@
         </mxCell>
         <mxCell id="LA4O4h8Pp1DYypU-k2Un-7" value="加入" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="270" y="500" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LA4O4h8Pp1DYypU-k2Un-51" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="LA4O4h8Pp1DYypU-k2Un-8" target="LA4O4h8Pp1DYypU-k2Un-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LA4O4h8Pp1DYypU-k2Un-8" value="包含" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="860" y="370" width="80" height="80" as="geometry" />
