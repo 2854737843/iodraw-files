@@ -289,11 +289,14 @@
         <mxCell id="mgMXP3HyKlFcv_mpUlc1-148" value="加密密码" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="590" y="670" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mgMXP3HyKlFcv_mpUlc1-149" value="varchar" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=19;" vertex="1" parent="1">
+        <mxCell id="mgMXP3HyKlFcv_mpUlc1-149" value="datetime" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="360" y="710" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mgMXP3HyKlFcv_mpUlc1-154" value="bight" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="360" y="630" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mgMXP3HyKlFcv_mpUlc1-155" value="bight" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="360" y="670" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
