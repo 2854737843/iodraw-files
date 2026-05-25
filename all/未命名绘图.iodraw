@@ -214,7 +214,7 @@
         <mxCell id="mgMXP3HyKlFcv_mpUlc1-123" value="varchar" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="360" y="750" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mgMXP3HyKlFcv_mpUlc1-124" value="user_id" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="mgMXP3HyKlFcv_mpUlc1-124" value="start_time" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="450" y="710" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mgMXP3HyKlFcv_mpUlc1-125" value="varchar" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=19;" vertex="1" parent="1">
@@ -302,7 +302,7 @@
           <mxGeometry x="360" y="830" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mgMXP3HyKlFcv_mpUlc1-158" value="user_id" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="460" y="720" width="90" height="40" as="geometry" />
+          <mxGeometry x="450" y="630" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
