@@ -122,7 +122,7 @@
           <mxGeometry x="490" y="340" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mgMXP3HyKlFcv_mpUlc1-55" value="int" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="580" y="260" width="90" height="20" as="geometry" />
+          <mxGeometry x="580" y="260" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="mgMXP3HyKlFcv_mpUlc1-56" value="name" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="670" y="220" width="90" height="40" as="geometry" />
@@ -137,7 +137,7 @@
           <mxGeometry x="670" y="140" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mgMXP3HyKlFcv_mpUlc1-61" value="status" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="690" y="440" width="90" height="40" as="geometry" />
+          <mxGeometry x="670" y="260" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mgMXP3HyKlFcv_mpUlc1-62" value="phone" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="910" y="500" width="90" height="40" as="geometry" />
