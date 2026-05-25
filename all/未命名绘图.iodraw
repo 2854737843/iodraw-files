@@ -203,7 +203,7 @@
           <mxGeometry x="360" y="630" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mgMXP3HyKlFcv_mpUlc1-120" value="datetime" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="360" y="870" width="90" height="40" as="geometry" />
+          <mxGeometry x="310" y="970" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mgMXP3HyKlFcv_mpUlc1-121" value="int" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="360" y="830" width="90" height="40" as="geometry" />
