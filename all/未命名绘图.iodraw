@@ -43,7 +43,7 @@
         <mxCell id="mgMXP3HyKlFcv_mpUlc1-14" value="create_time" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="190" y="380" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mgMXP3HyKlFcv_mpUlc1-16" value="status" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="mgMXP3HyKlFcv_mpUlc1-16" value="status" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="190" y="340" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mgMXP3HyKlFcv_mpUlc1-17" value="phone" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=21;" vertex="1" parent="1">
@@ -105,6 +105,108 @@
         </mxCell>
         <mxCell id="mgMXP3HyKlFcv_mpUlc1-47" value="varchar" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="100" y="220" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mgMXP3HyKlFcv_mpUlc1-48" value="" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="110" y="60" width="270" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="mgMXP3HyKlFcv_mpUlc1-49" value="USER" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="110" y="60" width="360" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="mgMXP3HyKlFcv_mpUlc1-50" value="bight" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="110" y="110" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mgMXP3HyKlFcv_mpUlc1-51" value="varchar" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="110" y="150" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mgMXP3HyKlFcv_mpUlc1-52" value="datetime" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="110" y="390" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mgMXP3HyKlFcv_mpUlc1-53" value="int" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="110" y="350" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mgMXP3HyKlFcv_mpUlc1-54" value="varchar" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="110" y="310" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mgMXP3HyKlFcv_mpUlc1-55" value="varchar" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="110" y="270" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mgMXP3HyKlFcv_mpUlc1-56" value="name" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="200" y="230" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mgMXP3HyKlFcv_mpUlc1-57" value="varchar" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="110" y="190" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mgMXP3HyKlFcv_mpUlc1-58" value="id" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="200" y="110" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mgMXP3HyKlFcv_mpUlc1-59" value="username" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="200" y="150" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mgMXP3HyKlFcv_mpUlc1-60" value="create_time" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="200" y="390" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mgMXP3HyKlFcv_mpUlc1-61" value="status" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="200" y="350" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mgMXP3HyKlFcv_mpUlc1-62" value="phone" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="200" y="270" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mgMXP3HyKlFcv_mpUlc1-63" value="role" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="200" y="310" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mgMXP3HyKlFcv_mpUlc1-64" value="password" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="200" y="190" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mgMXP3HyKlFcv_mpUlc1-65" value="" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="290" y="230" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mgMXP3HyKlFcv_mpUlc1-66" value="PK" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="290" y="110" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mgMXP3HyKlFcv_mpUlc1-67" value="UK" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="290" y="150" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mgMXP3HyKlFcv_mpUlc1-68" value="" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="290" y="390" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mgMXP3HyKlFcv_mpUlc1-69" value="" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="290" y="350" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mgMXP3HyKlFcv_mpUlc1-70" value="" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="290" y="270" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mgMXP3HyKlFcv_mpUlc1-71" value="" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="290" y="310" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mgMXP3HyKlFcv_mpUlc1-72" value="" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="290" y="190" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mgMXP3HyKlFcv_mpUlc1-73" value="真实姓名" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="340" y="230" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mgMXP3HyKlFcv_mpUlc1-74" value="用户id，自增主键" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="340" y="110" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mgMXP3HyKlFcv_mpUlc1-75" value="学号" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="340" y="150" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mgMXP3HyKlFcv_mpUlc1-76" value="创建时间" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="340" y="390" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mgMXP3HyKlFcv_mpUlc1-77" value="状态：0正常/1禁用" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=17;" vertex="1" parent="1">
+          <mxGeometry x="340" y="350" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mgMXP3HyKlFcv_mpUlc1-78" value="联系电话" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=22;" vertex="1" parent="1">
+          <mxGeometry x="340" y="270" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mgMXP3HyKlFcv_mpUlc1-79" value="角色：student/admin" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="340" y="310" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mgMXP3HyKlFcv_mpUlc1-80" value="加密密码" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=21;" vertex="1" parent="1">
+          <mxGeometry x="340" y="190" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mgMXP3HyKlFcv_mpUlc1-81" value="varchar" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="110" y="230" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
