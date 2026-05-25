@@ -269,12 +269,12 @@
           <mxGeometry x="590" y="630" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mgMXP3HyKlFcv_mpUlc1-144" value="创建时间" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="840" y="930" width="130" height="40" as="geometry" />
+          <mxGeometry x="590" y="910" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mgMXP3HyKlFcv_mpUlc1-145" value="状态：0正常/1禁用" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="780" y="830" width="130" height="40" as="geometry" />
+          <mxGeometry x="590" y="870" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mgMXP3HyKlFcv_mpUlc1-146" value="预约结束时间" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="mgMXP3HyKlFcv_mpUlc1-146" value="预约结束时间" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="590" y="750" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mgMXP3HyKlFcv_mpUlc1-147" value="状态：0已预约/1已签到/2已取消/3违约" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;" vertex="1" parent="1">
