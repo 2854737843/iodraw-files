@@ -28,7 +28,7 @@
         <mxCell id="mgMXP3HyKlFcv_mpUlc1-8" value="varchar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="100" y="260" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mgMXP3HyKlFcv_mpUlc1-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mgMXP3HyKlFcv_mpUlc1-9" value="name" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="220" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mgMXP3HyKlFcv_mpUlc1-10" value="varchar" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -52,7 +52,7 @@
         <mxCell id="mgMXP3HyKlFcv_mpUlc1-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="300" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mgMXP3HyKlFcv_mpUlc1-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mgMXP3HyKlFcv_mpUlc1-19" value="password" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="180" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mgMXP3HyKlFcv_mpUlc1-28" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
