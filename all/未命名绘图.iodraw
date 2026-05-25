@@ -46,10 +46,10 @@
         <mxCell id="mgMXP3HyKlFcv_mpUlc1-16" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="340" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mgMXP3HyKlFcv_mpUlc1-17" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mgMXP3HyKlFcv_mpUlc1-17" value="phone" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="260" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mgMXP3HyKlFcv_mpUlc1-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mgMXP3HyKlFcv_mpUlc1-18" value="role" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="300" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mgMXP3HyKlFcv_mpUlc1-19" value="password" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
