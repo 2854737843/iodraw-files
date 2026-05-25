@@ -268,7 +268,7 @@
         <mxCell id="mgMXP3HyKlFcv_mpUlc1-142" value="预约ID，自增主键" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="590" y="590" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mgMXP3HyKlFcv_mpUlc1-143" value="学号" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="mgMXP3HyKlFcv_mpUlc1-143" value="关联用户ID" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="590" y="630" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mgMXP3HyKlFcv_mpUlc1-144" value="创建时间" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=20;" vertex="1" parent="1">
