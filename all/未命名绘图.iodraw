@@ -140,7 +140,7 @@
           <mxGeometry x="670" y="260" width="90" height="90" as="geometry" />
         </mxCell>
         <mxCell id="mgMXP3HyKlFcv_mpUlc1-62" value="phone" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=21;" vertex="1" parent="1">
-          <mxGeometry x="910" y="500" width="90" height="40" as="geometry" />
+          <mxGeometry x="670" y="390" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mgMXP3HyKlFcv_mpUlc1-63" value="role" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="670" y="350" width="90" height="40" as="geometry" />
@@ -182,7 +182,7 @@
           <mxGeometry x="810" y="260" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="mgMXP3HyKlFcv_mpUlc1-79" value="可视化横坐标" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="810" y="350" width="130" height="70" as="geometry" />
+          <mxGeometry x="810" y="350" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mgMXP3HyKlFcv_mpUlc1-80" value="所在区域" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="810" y="180" width="130" height="40" as="geometry" />
