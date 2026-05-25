@@ -116,13 +116,13 @@
           <mxGeometry x="580" y="140" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mgMXP3HyKlFcv_mpUlc1-53" value="int" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="580" y="340" width="90" height="40" as="geometry" />
+          <mxGeometry x="460" y="420" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mgMXP3HyKlFcv_mpUlc1-54" value="int" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="580" y="300" width="90" height="40" as="geometry" />
+          <mxGeometry x="490" y="340" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mgMXP3HyKlFcv_mpUlc1-55" value="int" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=19;" vertex="1" parent="1">
-          <mxGeometry x="580" y="260" width="90" height="40" as="geometry" />
+          <mxGeometry x="580" y="260" width="90" height="20" as="geometry" />
         </mxCell>
         <mxCell id="mgMXP3HyKlFcv_mpUlc1-56" value="name" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="670" y="220" width="90" height="40" as="geometry" />
@@ -176,13 +176,13 @@
           <mxGeometry x="810" y="140" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mgMXP3HyKlFcv_mpUlc1-77" value="可视化纵坐标" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="810" y="340" width="130" height="40" as="geometry" />
+          <mxGeometry x="880" y="430" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mgMXP3HyKlFcv_mpUlc1-78" value="状态：0空闲/1已预约/2使用中" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="810" y="260" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="mgMXP3HyKlFcv_mpUlc1-79" value="可视化横坐标" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="810" y="300" width="130" height="40" as="geometry" />
+          <mxGeometry x="960" y="285" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="mgMXP3HyKlFcv_mpUlc1-80" value="所在区域" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="810" y="180" width="130" height="40" as="geometry" />
