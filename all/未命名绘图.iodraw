@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="9nf-qcu8JC9Bcg4n6RXc">
-    <mxGraphModel dx="1500" dy="757" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1235" dy="624" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -155,7 +155,7 @@
           <mxGeometry x="760" y="100" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mgMXP3HyKlFcv_mpUlc1-69" value="" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="1070" y="500" width="50" height="40" as="geometry" />
+          <mxGeometry x="760" y="390" width="50" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mgMXP3HyKlFcv_mpUlc1-70" value="" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="760" y="260" width="50" height="90" as="geometry" />
@@ -176,7 +176,7 @@
           <mxGeometry x="810" y="140" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mgMXP3HyKlFcv_mpUlc1-77" value="可视化纵坐标" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=17;" vertex="1" parent="1">
-          <mxGeometry x="880" y="430" width="130" height="40" as="geometry" />
+          <mxGeometry x="810" y="390" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mgMXP3HyKlFcv_mpUlc1-78" value="状态：0空闲/1已预约/2使用中" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=11;" vertex="1" parent="1">
           <mxGeometry x="810" y="260" width="130" height="90" as="geometry" />
