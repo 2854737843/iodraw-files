@@ -208,7 +208,7 @@
         <mxCell id="mgMXP3HyKlFcv_mpUlc1-121" value="int" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="360" y="830" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mgMXP3HyKlFcv_mpUlc1-122" value="varchar" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=19;" vertex="1" parent="1">
+        <mxCell id="mgMXP3HyKlFcv_mpUlc1-122" value="int" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="360" y="790" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mgMXP3HyKlFcv_mpUlc1-123" value="varchar" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=19;" vertex="1" parent="1">
@@ -297,6 +297,12 @@
         </mxCell>
         <mxCell id="mgMXP3HyKlFcv_mpUlc1-155" value="bight" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=19;" vertex="1" parent="1">
           <mxGeometry x="360" y="670" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mgMXP3HyKlFcv_mpUlc1-156" value="datetime" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="360" y="750" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="mgMXP3HyKlFcv_mpUlc1-157" value="datetime" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="370" y="760" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
