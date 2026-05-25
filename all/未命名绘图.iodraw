@@ -79,7 +79,7 @@
         <mxCell id="mgMXP3HyKlFcv_mpUlc1-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="180" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mgMXP3HyKlFcv_mpUlc1-36" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="mgMXP3HyKlFcv_mpUlc1-36" value="真实姓名" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="220" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mgMXP3HyKlFcv_mpUlc1-37" value="用户id，自增主键" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
