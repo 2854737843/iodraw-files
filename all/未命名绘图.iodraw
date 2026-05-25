@@ -184,7 +184,7 @@
         <mxCell id="mgMXP3HyKlFcv_mpUlc1-79" value="角色：student/admin" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="810" y="300" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mgMXP3HyKlFcv_mpUlc1-80" value="加密密码" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=21;" vertex="1" parent="1">
+        <mxCell id="mgMXP3HyKlFcv_mpUlc1-80" value="所在区域" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="810" y="180" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mgMXP3HyKlFcv_mpUlc1-81" value="int" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=19;" vertex="1" parent="1">
