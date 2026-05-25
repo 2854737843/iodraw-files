@@ -277,11 +277,8 @@
         <mxCell id="mgMXP3HyKlFcv_mpUlc1-145" value="状态：0正常/1禁用" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="590" y="830" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mgMXP3HyKlFcv_mpUlc1-146" value="联系电话" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="mgMXP3HyKlFcv_mpUlc1-146" value="预约结束时间" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="590" y="750" width="130" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mgMXP3HyKlFcv_mpUlc1-147" value="角色：student/admin" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;" vertex="1" parent="1">
-          <mxGeometry x="590" y="790" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mgMXP3HyKlFcv_mpUlc1-148" value="关联座位ID" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="590" y="670" width="130" height="40" as="geometry" />
