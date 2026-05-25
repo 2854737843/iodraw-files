@@ -166,7 +166,7 @@
         <mxCell id="mgMXP3HyKlFcv_mpUlc1-72" value="" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="760" y="180" width="50" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mgMXP3HyKlFcv_mpUlc1-73" value="真实姓名" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=21;" vertex="1" parent="1">
+        <mxCell id="mgMXP3HyKlFcv_mpUlc1-73" value="楼层" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=21;" vertex="1" parent="1">
           <mxGeometry x="810" y="220" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mgMXP3HyKlFcv_mpUlc1-74" value="座位ID，自增主键" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=16;" vertex="1" parent="1">
@@ -178,7 +178,7 @@
         <mxCell id="mgMXP3HyKlFcv_mpUlc1-77" value="状态：0正常/1禁用" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="810" y="340" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mgMXP3HyKlFcv_mpUlc1-78" value="联系电话" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=22;" vertex="1" parent="1">
+        <mxCell id="mgMXP3HyKlFcv_mpUlc1-78" value="状态：0空闲/1已预约/2使用中" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=22;" vertex="1" parent="1">
           <mxGeometry x="810" y="260" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mgMXP3HyKlFcv_mpUlc1-79" value="角色：student/admin" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;" vertex="1" parent="1">
