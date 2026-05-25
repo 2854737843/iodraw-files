@@ -178,8 +178,8 @@
         <mxCell id="mgMXP3HyKlFcv_mpUlc1-77" value="可视化纵坐标" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=17;" vertex="1" parent="1">
           <mxGeometry x="810" y="340" width="130" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="mgMXP3HyKlFcv_mpUlc1-78" value="状态：0空闲/1已预约/2使用中" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=22;" vertex="1" parent="1">
-          <mxGeometry x="810" y="260" width="130" height="50" as="geometry" />
+        <mxCell id="mgMXP3HyKlFcv_mpUlc1-78" value="状态：0空闲/1已预约/2使用中" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="810" y="260" width="130" height="90" as="geometry" />
         </mxCell>
         <mxCell id="mgMXP3HyKlFcv_mpUlc1-79" value="可视化横坐标" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=18;" vertex="1" parent="1">
           <mxGeometry x="810" y="300" width="130" height="40" as="geometry" />
