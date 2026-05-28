@@ -49,10 +49,10 @@
         <mxCell id="_sueFWfH319yP5cnOZy7-18" value="任务查看" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="280" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_sueFWfH319yP5cnOZy7-19" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_sueFWfH319yP5cnOZy7-19" value="周报提交" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="410" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="_sueFWfH319yP5cnOZy7-20" value="" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="_sueFWfH319yP5cnOZy7-20" value="任务查看" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="300" y="345" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
