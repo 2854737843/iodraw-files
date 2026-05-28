@@ -23,7 +23,7 @@
           <mxGeometry x="50" y="30" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="99HhabK8mNXT6VONNhGi-8" value="查看周报" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
-          <mxGeometry x="154" y="20" width="76" height="50" as="geometry" />
+          <mxGeometry x="154" y="35" width="76" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
