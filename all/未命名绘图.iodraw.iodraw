@@ -13,9 +13,6 @@
         <mxCell id="99HhabK8mNXT6VONNhGi-1" value="开始" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
           <mxGeometry x="50" y="40" width="60" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="99HhabK8mNXT6VONNhGi-6" value="完成" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
-          <mxGeometry x="340" y="40" width="60" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-21" value="导师" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry x="20" y="120" width="510" height="120" as="geometry" />
         </mxCell>
@@ -25,8 +22,8 @@
         <mxCell id="99HhabK8mNXT6VONNhGi-8" value="查看周报" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="154" y="35" width="76" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="99HhabK8mNXT6VONNhGi-12" value="是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="280" width="60" height="60" as="geometry" />
+        <mxCell id="99HhabK8mNXT6VONNhGi-12" value="是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
+          <mxGeometry x="94" y="35" width="60" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
