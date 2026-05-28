@@ -10,8 +10,14 @@
         <mxCell id="_sueFWfH319yP5cnOZy7-2" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="240" width="30" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="_sueFWfH319yP5cnOZy7-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_sueFWfH319yP5cnOZy7-3" target="_sueFWfH319yP5cnOZy7-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="_sueFWfH319yP5cnOZy7-3" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="360" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_sueFWfH319yP5cnOZy7-6" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="140" y="500" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
