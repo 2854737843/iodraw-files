@@ -1,0 +1,77 @@
+<mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/148.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="第 1 页" id="EaBnG2XNdFpgY6y86GD4">
+    <mxGraphModel dx="794" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2339" pageHeight="3300" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nrKdRgr_dNTWsAgso5P_-1" value="数据持久层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="364" y="686" width="184" height="119" as="geometry" />
+        </mxCell>
+        <mxCell id="nrKdRgr_dNTWsAgso5P_-2" value="后端业务层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="315" y="537" width="280" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="nrKdRgr_dNTWsAgso5P_-3" value="安全与接口层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="20" y="290" width="597" height="197" as="geometry" />
+        </mxCell>
+        <mxCell id="nrKdRgr_dNTWsAgso5P_-4" value="前端应用层" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="185" y="20" width="253" height="197" as="geometry" />
+        </mxCell>
+        <mxCell id="nrKdRgr_dNTWsAgso5P_-5" value="Vue3 页面与组件" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="222" y="45" width="180" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="nrKdRgr_dNTWsAgso5P_-6" value="Axios 请求客户端" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="220" y="144" width="183" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="nrKdRgr_dNTWsAgso5P_-7" value="RESTful 接口" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="236" y="315" width="151" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="nrKdRgr_dNTWsAgso5P_-8" value="Swagger/OpenAPI 文档" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="55" y="414" width="224" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="nrKdRgr_dNTWsAgso5P_-9" value="Spring Security + JWT 鉴权" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="329" y="414" width="253" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="nrKdRgr_dNTWsAgso5P_-10" value="Spring Boot 业务逻辑" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="350" y="562" width="210" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="nrKdRgr_dNTWsAgso5P_-11" value="MySQL 数据库" style="shape=cylinder3;boundedLbl=1;backgroundOutline=1;size=10;strokeWidth=2;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="399" y="711" width="114" height="69" as="geometry" />
+        </mxCell>
+        <mxCell id="nrKdRgr_dNTWsAgso5P_-12" value="" style="curved=1;startArrow=block;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="nrKdRgr_dNTWsAgso5P_-5" target="nrKdRgr_dNTWsAgso5P_-6">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nrKdRgr_dNTWsAgso5P_-13" value="REST API" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="nrKdRgr_dNTWsAgso5P_-6" target="nrKdRgr_dNTWsAgso5P_-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nrKdRgr_dNTWsAgso5P_-14" value="" style="curved=1;startArrow=block;endArrow=block;exitX=0.03;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="nrKdRgr_dNTWsAgso5P_-7" target="nrKdRgr_dNTWsAgso5P_-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="167" y="389" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nrKdRgr_dNTWsAgso5P_-15" value="" style="curved=1;startArrow=block;endArrow=block;exitX=0.97;exitY=0.99;entryX=0.5;entryY=-0.01;rounded=0;" edge="1" parent="1" source="nrKdRgr_dNTWsAgso5P_-7" target="nrKdRgr_dNTWsAgso5P_-9">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="456" y="389" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nrKdRgr_dNTWsAgso5P_-16" value="" style="curved=1;startArrow=block;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0.01;rounded=0;" edge="1" parent="1" source="nrKdRgr_dNTWsAgso5P_-9" target="nrKdRgr_dNTWsAgso5P_-10">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nrKdRgr_dNTWsAgso5P_-17" value="" style="curved=1;startArrow=block;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="nrKdRgr_dNTWsAgso5P_-10" target="nrKdRgr_dNTWsAgso5P_-11">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
