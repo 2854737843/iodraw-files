@@ -22,7 +22,7 @@
         <mxCell id="99HhabK8mNXT6VONNhGi-7" value="审核周报" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="30" y="10" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="99HhabK8mNXT6VONNhGi-8" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
+        <mxCell id="99HhabK8mNXT6VONNhGi-8" value="查看周报" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="130" y="40" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
