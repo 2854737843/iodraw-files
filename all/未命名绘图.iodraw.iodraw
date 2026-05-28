@@ -19,10 +19,10 @@
         <mxCell id="nrKdRgr_dNTWsAgso5P_-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nrKdRgr_dNTWsAgso5P_-44" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nrKdRgr_dNTWsAgso5P_-44" value="任务页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="400" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nrKdRgr_dNTWsAgso5P_-45" value="登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nrKdRgr_dNTWsAgso5P_-45" value="登录页" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="280" y="400" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
