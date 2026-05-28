@@ -25,6 +25,9 @@
         <mxCell id="99HhabK8mNXT6VONNhGi-8" value="查看周报" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="154" y="35" width="76" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="99HhabK8mNXT6VONNhGi-12" value="审核周报" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="280" width="60" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
