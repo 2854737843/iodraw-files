@@ -19,6 +19,9 @@
         <mxCell id="dNxyNK7c78bLwvsdeMH5-21" value="导师" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry x="20" y="120" width="430" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="99HhabK8mNXT6VONNhGi-7" value="" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="270" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
