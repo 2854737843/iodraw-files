@@ -4,6 +4,63 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="nrKdRgr_dNTWsAgso5P_-22" value="数据层 - MySQL数据库" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="200" y="579" width="495" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="nrKdRgr_dNTWsAgso5P_-23" value="任务表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="nrKdRgr_dNTWsAgso5P_-22">
+          <mxGeometry x="43" y="46" width="108" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="nrKdRgr_dNTWsAgso5P_-24" value="周报表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="nrKdRgr_dNTWsAgso5P_-22">
+          <mxGeometry x="201" y="46" width="109" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="nrKdRgr_dNTWsAgso5P_-25" value="日志表" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="nrKdRgr_dNTWsAgso5P_-22">
+          <mxGeometry x="360" y="46" width="108" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="nrKdRgr_dNTWsAgso5P_-26" value="业务逻辑层 - Spring Boot服务" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="286" y="387" width="322" height="141" as="geometry" />
+        </mxCell>
+        <mxCell id="nrKdRgr_dNTWsAgso5P_-27" value="认证权限、任务处理、日志记录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="nrKdRgr_dNTWsAgso5P_-26">
+          <mxGeometry x="43" y="46" width="252" height="66" as="geometry" />
+        </mxCell>
+        <mxCell id="nrKdRgr_dNTWsAgso5P_-28" value="表示层 - 前端(Vue3)" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="223" y="214" width="448" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="nrKdRgr_dNTWsAgso5P_-29" value="登录" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="nrKdRgr_dNTWsAgso5P_-28">
+          <mxGeometry x="43" y="46" width="93" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="nrKdRgr_dNTWsAgso5P_-30" value="任务" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="nrKdRgr_dNTWsAgso5P_-28">
+          <mxGeometry x="186" y="46" width="93" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="nrKdRgr_dNTWsAgso5P_-31" value="周报" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="nrKdRgr_dNTWsAgso5P_-28">
+          <mxGeometry x="328" y="46" width="93" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="nrKdRgr_dNTWsAgso5P_-32" value="用户层" style="whiteSpace=wrap;strokeWidth=2;verticalAlign=top;" vertex="1" parent="1">
+          <mxGeometry x="216" y="40" width="462" height="124" as="geometry" />
+        </mxCell>
+        <mxCell id="nrKdRgr_dNTWsAgso5P_-33" value="学生" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="nrKdRgr_dNTWsAgso5P_-32">
+          <mxGeometry x="43" y="46" width="92" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="nrKdRgr_dNTWsAgso5P_-34" value="导师" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="nrKdRgr_dNTWsAgso5P_-32">
+          <mxGeometry x="185" y="46" width="92" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="nrKdRgr_dNTWsAgso5P_-35" value="管理员" style="whiteSpace=wrap;strokeWidth=2;" vertex="1" parent="nrKdRgr_dNTWsAgso5P_-32">
+          <mxGeometry x="327" y="46" width="108" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="nrKdRgr_dNTWsAgso5P_-36" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="nrKdRgr_dNTWsAgso5P_-32" target="nrKdRgr_dNTWsAgso5P_-28">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nrKdRgr_dNTWsAgso5P_-37" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=0.99;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="nrKdRgr_dNTWsAgso5P_-28" target="nrKdRgr_dNTWsAgso5P_-26">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nrKdRgr_dNTWsAgso5P_-38" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="nrKdRgr_dNTWsAgso5P_-26" target="nrKdRgr_dNTWsAgso5P_-22">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
