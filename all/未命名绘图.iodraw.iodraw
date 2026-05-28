@@ -13,7 +13,7 @@
         <mxCell id="_sueFWfH319yP5cnOZy7-64" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="680" y="100" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="_sueFWfH319yP5cnOZy7-65" value="" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+        <mxCell id="_sueFWfH319yP5cnOZy7-65" value="待审核" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="550" y="100" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="_sueFWfH319yP5cnOZy7-66" value="进行中" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
