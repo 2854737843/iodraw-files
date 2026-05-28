@@ -10,14 +10,8 @@
         <mxCell id="_sueFWfH319yP5cnOZy7-8" value="导师" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="210" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="_sueFWfH319yP5cnOZy7-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_sueFWfH319yP5cnOZy7-10" target="_sueFWfH319yP5cnOZy7-12">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="_sueFWfH319yP5cnOZy7-10" value="导师" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="_sueFWfH319yP5cnOZy7-10" value="学生" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="140" y="340" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="_sueFWfH319yP5cnOZy7-12" value="导师" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="140" y="480" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
