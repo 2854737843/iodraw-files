@@ -13,9 +13,6 @@
         <mxCell id="99HhabK8mNXT6VONNhGi-13" value="提交周报" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
           <mxGeometry x="50" y="30" width="76" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="99HhabK8mNXT6VONNhGi-14" value="补作业" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
-          <mxGeometry x="350" y="35" width="76" height="50" as="geometry" />
-        </mxCell>
         <mxCell id="99HhabK8mNXT6VONNhGi-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-19" source="99HhabK8mNXT6VONNhGi-13" target="99HhabK8mNXT6VONNhGi-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -29,7 +26,7 @@
           <mxGeometry x="50" y="55" width="76" height="50" as="geometry" />
         </mxCell>
         <mxCell id="99HhabK8mNXT6VONNhGi-23" value="结束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
-          <mxGeometry x="250" y="5" width="76" height="50" as="geometry" />
+          <mxGeometry x="278" y="10" width="76" height="50" as="geometry" />
         </mxCell>
         <mxCell id="99HhabK8mNXT6VONNhGi-25" value="驳回" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="170" y="80" width="60" height="60" as="geometry" />
