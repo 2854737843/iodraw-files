@@ -37,7 +37,7 @@
         <mxCell id="Ce7CwHAWMxbz7NKj9cHm-15" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
           <mxGeometry x="275" y="305" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ce7CwHAWMxbz7NKj9cHm-24" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="Ce7CwHAWMxbz7NKj9cHm-16" target="Ce7CwHAWMxbz7NKj9cHm-17">
+        <mxCell id="Ce7CwHAWMxbz7NKj9cHm-24" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;dashed=1;" edge="1" parent="1" source="Ce7CwHAWMxbz7NKj9cHm-16" target="Ce7CwHAWMxbz7NKj9cHm-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Ce7CwHAWMxbz7NKj9cHm-16" value="" style="rounded=0;whiteSpace=wrap;html=1;rotation=-90;" vertex="1" parent="1">
@@ -54,6 +54,9 @@
         </mxCell>
         <mxCell id="Ce7CwHAWMxbz7NKj9cHm-21" value="发送登录请求" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="620" y="250" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ce7CwHAWMxbz7NKj9cHm-25" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="625" y="340" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
