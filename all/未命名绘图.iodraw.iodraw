@@ -22,6 +22,9 @@
         <mxCell id="dNxyNK7c78bLwvsdeMH5-21" value="导师" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry x="20" y="120" width="400" height="160" as="geometry" />
         </mxCell>
+        <mxCell id="99HhabK8mNXT6VONNhGi-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-21" source="99HhabK8mNXT6VONNhGi-12" target="99HhabK8mNXT6VONNhGi-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="99HhabK8mNXT6VONNhGi-12" value="是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="180" y="50" width="60" height="60" as="geometry" />
         </mxCell>
