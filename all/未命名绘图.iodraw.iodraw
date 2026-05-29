@@ -25,7 +25,7 @@
         <mxCell id="Ce7CwHAWMxbz7NKj9cHm-91" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="Ce7CwHAWMxbz7NKj9cHm-77" target="Ce7CwHAWMxbz7NKj9cHm-90">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Ce7CwHAWMxbz7NKj9cHm-77" value="结果反馈" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="Ce7CwHAWMxbz7NKj9cHm-77" value="结果反馈" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=#333333;labelBackgroundColor=default;fillColor=#f5f5f5;strokeColor=#666666;" vertex="1" parent="1">
           <mxGeometry x="820" y="450" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ce7CwHAWMxbz7NKj9cHm-81" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="Ce7CwHAWMxbz7NKj9cHm-78" target="Ce7CwHAWMxbz7NKj9cHm-77">
