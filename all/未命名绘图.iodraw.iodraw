@@ -23,7 +23,7 @@
           <mxGeometry x="20" y="120" width="510" height="120" as="geometry" />
         </mxCell>
         <mxCell id="99HhabK8mNXT6VONNhGi-12" value="通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
-          <mxGeometry x="170" y="25" width="60" height="60" as="geometry" />
+          <mxGeometry x="170" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="99HhabK8mNXT6VONNhGi-15" value="审核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="50" y="30" width="76" height="50" as="geometry" />
@@ -32,10 +32,10 @@
           <mxGeometry x="250" y="30" width="76" height="50" as="geometry" />
         </mxCell>
         <mxCell id="99HhabK8mNXT6VONNhGi-25" value="驳回" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
-          <mxGeometry x="354" y="25" width="60" height="60" as="geometry" />
+          <mxGeometry x="340" y="25" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="99HhabK8mNXT6VONNhGi-26" value="学生补交" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
-          <mxGeometry x="434" y="30" width="76" height="50" as="geometry" />
+          <mxGeometry x="420" y="30" width="76" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
