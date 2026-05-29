@@ -40,6 +40,9 @@
         <mxCell id="Ce7CwHAWMxbz7NKj9cHm-51" value="Vue3" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="710" y="505" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Ce7CwHAWMxbz7NKj9cHm-52" value="SpringBoot /REST" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="720" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
