@@ -29,10 +29,7 @@
           <mxGeometry x="620" y="520" width="20" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Ce7CwHAWMxbz7NKj9cHm-40" value="MySQL 数据库" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="680" y="815" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="Ce7CwHAWMxbz7NKj9cHm-45" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
-          <mxGeometry x="600" y="940" width="670" height="130" as="geometry" />
+          <mxGeometry x="670" y="660" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
