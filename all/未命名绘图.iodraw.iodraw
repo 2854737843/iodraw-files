@@ -19,7 +19,7 @@
         <mxCell id="dNxyNK7c78bLwvsdeMH5-21" value="导师" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry x="20" y="120" width="510" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="99HhabK8mNXT6VONNhGi-12" value="是否通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
+        <mxCell id="99HhabK8mNXT6VONNhGi-12" value="通过" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="180" y="30" width="60" height="60" as="geometry" />
         </mxCell>
         <mxCell id="99HhabK8mNXT6VONNhGi-15" value="审核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
