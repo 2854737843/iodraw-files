@@ -7,14 +7,17 @@
         <mxCell id="Ce7CwHAWMxbz7NKj9cHm-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="260" y="130" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Ce7CwHAWMxbz7NKj9cHm-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Ce7CwHAWMxbz7NKj9cHm-2" target="Ce7CwHAWMxbz7NKj9cHm-3">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Ce7CwHAWMxbz7NKj9cHm-2" value="前端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Ce7CwHAWMxbz7NKj9cHm-3" value="后端" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="700" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ce7CwHAWMxbz7NKj9cHm-9" value="" style="endArrow=none;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="670" y="310" as="sourcePoint" />
+            <mxPoint x="720" y="260" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
