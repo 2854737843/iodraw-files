@@ -43,8 +43,11 @@
         <mxCell id="Ce7CwHAWMxbz7NKj9cHm-84" value="审计日志记录" style="rhombus;whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="840" y="540" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="Ce7CwHAWMxbz7NKj9cHm-89" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="Ce7CwHAWMxbz7NKj9cHm-89" value="审计日志" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="970" y="660" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Ce7CwHAWMxbz7NKj9cHm-90" value="" style="rounded=1;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="800" y="580" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
