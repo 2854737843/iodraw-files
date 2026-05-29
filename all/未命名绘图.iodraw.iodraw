@@ -41,7 +41,14 @@
           <mxGeometry x="690" y="540" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="Ce7CwHAWMxbz7NKj9cHm-92" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="Ce7CwHAWMxbz7NKj9cHm-83" target="Ce7CwHAWMxbz7NKj9cHm-89">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1030" y="660" />
+              <mxPoint x="730" y="660" />
+              <mxPoint x="730" y="640" />
+              <mxPoint x="1030" y="640" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="Ce7CwHAWMxbz7NKj9cHm-83" value="审计日志记录" style="rhombus;whiteSpace=wrap;html=1;rounded=0;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="990" y="540" width="80" height="80" as="geometry" />
