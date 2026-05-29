@@ -16,8 +16,17 @@
         <mxCell id="99HhabK8mNXT6VONNhGi-41" value="已完成" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="230" width="80" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="99HhabK8mNXT6VONNhGi-46" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="99HhabK8mNXT6VONNhGi-42" target="99HhabK8mNXT6VONNhGi-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="99HhabK8mNXT6VONNhGi-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="99HhabK8mNXT6VONNhGi-42" target="99HhabK8mNXT6VONNhGi-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="99HhabK8mNXT6VONNhGi-42" value="待审核" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="230" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="99HhabK8mNXT6VONNhGi-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="99HhabK8mNXT6VONNhGi-43" target="99HhabK8mNXT6VONNhGi-42">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="99HhabK8mNXT6VONNhGi-43" value="进行中" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="230" y="230" width="80" height="40" as="geometry" />
