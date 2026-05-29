@@ -16,6 +16,9 @@
         <mxCell id="99HhabK8mNXT6VONNhGi-14" value="补作业" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-20">
           <mxGeometry x="350" y="35" width="76" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="99HhabK8mNXT6VONNhGi-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-19" source="99HhabK8mNXT6VONNhGi-13" target="99HhabK8mNXT6VONNhGi-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="dNxyNK7c78bLwvsdeMH5-21" value="导师" style="swimlane;html=1;startSize=20;horizontal=0;" parent="dNxyNK7c78bLwvsdeMH5-19" vertex="1">
           <mxGeometry x="20" y="120" width="510" height="120" as="geometry" />
         </mxCell>
@@ -31,11 +34,8 @@
         <mxCell id="99HhabK8mNXT6VONNhGi-25" value="驳回" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="354" y="25" width="60" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="99HhabK8mNXT6VONNhGi-26" value="结束" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
+        <mxCell id="99HhabK8mNXT6VONNhGi-26" value="学生补交" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="dNxyNK7c78bLwvsdeMH5-21">
           <mxGeometry x="434" y="30" width="76" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="99HhabK8mNXT6VONNhGi-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="dNxyNK7c78bLwvsdeMH5-19" source="99HhabK8mNXT6VONNhGi-13" target="99HhabK8mNXT6VONNhGi-15">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
