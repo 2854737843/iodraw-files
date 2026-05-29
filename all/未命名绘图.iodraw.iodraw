@@ -28,7 +28,7 @@
         <mxCell id="Ce7CwHAWMxbz7NKj9cHm-37" value="应用层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
           <mxGeometry x="620" y="570" width="20" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Ce7CwHAWMxbz7NKj9cHm-40" value="" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
+        <mxCell id="Ce7CwHAWMxbz7NKj9cHm-40" value="MySQL 数据库" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;fillColor=none;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="750" y="755" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
