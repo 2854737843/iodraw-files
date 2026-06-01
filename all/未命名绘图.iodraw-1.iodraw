@@ -49,7 +49,7 @@
         <mxCell id="3zLiuwvqKwFifNMWMC5w-18" value="提交时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="480" y="550" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3zLiuwvqKwFifNMWMC5w-20" value="提交时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3zLiuwvqKwFifNMWMC5w-20" value="审核时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="350" y="580" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
