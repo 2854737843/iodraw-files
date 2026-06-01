@@ -10,8 +10,10 @@
         <mxCell id="3zLiuwvqKwFifNMWMC5w-8" value="" style="shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="3zLiuwvqKwFifNMWMC5w-1" target="3zLiuwvqKwFifNMWMC5w-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3zLiuwvqKwFifNMWMC5w-11" style="shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="3zLiuwvqKwFifNMWMC5w-1" target="3zLiuwvqKwFifNMWMC5w-10">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="3zLiuwvqKwFifNMWMC5w-11" style="shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="3zLiuwvqKwFifNMWMC5w-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="457.57359312880703" y="551.715728752538" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="3zLiuwvqKwFifNMWMC5w-1" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="450" width="120" height="60" as="geometry" />
@@ -33,9 +35,6 @@
         </mxCell>
         <mxCell id="3zLiuwvqKwFifNMWMC5w-5" value="密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="500" y="390" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="3zLiuwvqKwFifNMWMC5w-10" value="是否启用" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="440" y="540" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
