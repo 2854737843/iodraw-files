@@ -25,7 +25,7 @@
         <mxCell id="3zLiuwvqKwFifNMWMC5w-3" value="课题组编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="340" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="3zLiuwvqKwFifNMWMC5w-4" value="编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3zLiuwvqKwFifNMWMC5w-4" value="加入时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="550" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3zLiuwvqKwFifNMWMC5w-5" value="成员角色" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
