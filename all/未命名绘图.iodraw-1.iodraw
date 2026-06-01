@@ -25,13 +25,13 @@
         <mxCell id="3zLiuwvqKwFifNMWMC5w-9" value="" style="shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="3zLiuwvqKwFifNMWMC5w-2" target="3zLiuwvqKwFifNMWMC5w-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3zLiuwvqKwFifNMWMC5w-2" value="所属项目编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3zLiuwvqKwFifNMWMC5w-2" value="课题组编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="390" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3zLiuwvqKwFifNMWMC5w-6" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="3zLiuwvqKwFifNMWMC5w-3" target="3zLiuwvqKwFifNMWMC5w-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="3zLiuwvqKwFifNMWMC5w-3" value="任务标题" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="3zLiuwvqKwFifNMWMC5w-3" value="标题" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="340" y="340" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3zLiuwvqKwFifNMWMC5w-5" value="任务描述" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
