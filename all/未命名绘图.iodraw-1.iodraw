@@ -44,7 +44,7 @@
           <mxGeometry x="490" y="440" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3zLiuwvqKwFifNMWMC5w-16" value="审核人用户编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="190" y="530" width="120" height="80" as="geometry" />
+          <mxGeometry x="185" y="530" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3zLiuwvqKwFifNMWMC5w-18" value="提交时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="490" y="524" width="120" height="80" as="geometry" />
@@ -53,7 +53,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3zLiuwvqKwFifNMWMC5w-20" value="审核时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="283" y="590" width="120" height="80" as="geometry" />
+          <mxGeometry x="279" y="590" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3zLiuwvqKwFifNMWMC5w-24" value="状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="590" width="120" height="80" as="geometry" />
