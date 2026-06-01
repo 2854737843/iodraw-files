@@ -26,7 +26,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="3zLiuwvqKwFifNMWMC5w-2" value="课题组编号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="390" width="120" height="80" as="geometry" />
+          <mxGeometry x="210" y="350" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="3zLiuwvqKwFifNMWMC5w-6" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="3zLiuwvqKwFifNMWMC5w-3" target="3zLiuwvqKwFifNMWMC5w-1">
           <mxGeometry relative="1" as="geometry" />
@@ -48,6 +48,9 @@
         </mxCell>
         <mxCell id="3zLiuwvqKwFifNMWMC5w-18" value="提交时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="420" y="560" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="3zLiuwvqKwFifNMWMC5w-20" value="提交时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="570" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
